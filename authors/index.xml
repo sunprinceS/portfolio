@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Tony Hsu</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sunprinces.github.io/portfolio/authors/</link>
+      <atom:link href="https://sunprinces.github.io/portfolio/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jui-Yang Hsu</copyright>
     <image>
-      <url>/images/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sunprinces.github.io/portfolio/images/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://sunprinces.github.io/portfolio/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://sunprinces.github.io/portfolio/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://sunprinces.github.io/portfolio/authors/admin/</guid>
       <description>&lt;p&gt;I&#39;m a 2nd year Master student in Speech Processing &amp;amp; Machine Learning Laboratory
 at NTU EECS, supervised by Prof. &lt;a href=&#34;http://speech.ee.ntu.edu.tw/~tlkagk/index.html&#34;&gt;Hung-Yi Lee&lt;/a&gt;&lt;/p&gt;
 </description>
