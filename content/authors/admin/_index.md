@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MSE in Computer Science
+  - course: MS in Computer Science
     institution: National Taiwan University
     year: 2018 - Present
   - course: BSE in Electrical Engineering
