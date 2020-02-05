@@ -62,7 +62,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Speech Research Intern"
   company = "Delta Research Center"
-  company_url = ""
+  company_url = "https://www.deltaww.com/about/drc.aspx?secID=5&pid=4&tid=1&hl=en-US"
   location = "Taipei, Taiwan"
   date_start = "2016-07-03"
   date_end = "2016-08-30"
