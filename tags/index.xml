@@ -5,12 +5,36 @@
     <link>https://sunprinces.github.io/portfolio/tags/</link>
       <atom:link href="https://sunprinces.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jui-Yang Hsu</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jui-Yang Hsu</copyright><lastBuildDate>Mon, 04 May 2020 10:22:58 +0800</lastBuildDate>
     <image>
       <url>https://sunprinces.github.io/portfolio/images/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://sunprinces.github.io/portfolio/tags/</link>
     </image>
+    
+    <item>
+      <title>ASR</title>
+      <link>https://sunprinces.github.io/portfolio/tags/asr/</link>
+      <pubDate>Mon, 04 May 2020 10:22:58 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/tags/asr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Learning</title>
+      <link>https://sunprinces.github.io/portfolio/tags/meta-learning/</link>
+      <pubDate>Mon, 04 May 2020 10:22:58 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/tags/meta-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QA</title>
+      <link>https://sunprinces.github.io/portfolio/tags/qa/</link>
+      <pubDate>Sat, 13 Apr 2019 13:15:01 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/tags/qa/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,36 @@
     <link>https://sunprinces.github.io/portfolio/publication/</link>
       <atom:link href="https://sunprinces.github.io/portfolio/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jui-Yang Hsu</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jui-Yang Hsu</copyright><lastBuildDate>Mon, 04 May 2020 10:22:58 +0800</lastBuildDate>
     <image>
       <url>https://sunprinces.github.io/portfolio/images/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://sunprinces.github.io/portfolio/publication/</link>
     </image>
+    
+    <item>
+      <title>Meta Learning for End-to-End Low-Resource Speech Recognition</title>
+      <link>https://sunprinces.github.io/portfolio/publication/metaasr/</link>
+      <pubDate>Mon, 04 May 2020 10:22:58 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/metaasr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
+      <link>https://sunprinces.github.io/portfolio/publication/qa-journal/</link>
+      <pubDate>Sat, 13 Apr 2019 13:15:01 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/qa-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
+      <link>https://sunprinces.github.io/portfolio/publication/ham-qa/</link>
+      <pubDate>Sun, 04 Dec 2016 13:03:25 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/ham-qa/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

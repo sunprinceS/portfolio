@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chia-Hsuan Lee | Tony Hsu</title>
+    <link>https://sunprinces.github.io/portfolio/authors/chia-hsuan-lee/</link>
+      <atom:link href="https://sunprinces.github.io/portfolio/authors/chia-hsuan-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chia-Hsuan Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jui-Yang Hsu</copyright><lastBuildDate>Sat, 13 Apr 2019 13:15:01 +0800</lastBuildDate>
+    <image>
+      <url>https://sunprinces.github.io/portfolio/images/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
+      <title>Chia-Hsuan Lee</title>
+      <link>https://sunprinces.github.io/portfolio/authors/chia-hsuan-lee/</link>
+    </image>
+    
+    <item>
+      <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
+      <link>https://sunprinces.github.io/portfolio/publication/qa-journal/</link>
+      <pubDate>Sat, 13 Apr 2019 13:15:01 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/qa-journal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
