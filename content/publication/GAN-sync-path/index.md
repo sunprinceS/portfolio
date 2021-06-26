@@ -28,12 +28,12 @@ publication_types: ["8"]
 publication: "US Patent"
 publication_short: ""
 
-abstract: ""
+Abstract: "An example method includes at an electronic device with one or more processors and memory: obtaining first data representing a user-generated keyboard path for one or more words; obtaining second data representing a synthetic keyboard path for the one or more words; generating, using a first instance of a generative network, based on the first data and the second data, third data representing a modification of the synthetic keyboard path; determining whether the third data represent a second user-generated keyboard path; determining whether the third data represent the one or more words; and in accordance with a determination that the third data represent a second user-generated keyboard path and a determination that the third data represent the one or more words: training a model for keyboard path recognition based on the third data."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Generative Model", "Seq2Seq", "GAN"]
+tags: ["GAN", "Generative Model", "Data Augmentation", "Seq2Seq"]
 categories: ["NLP"]
 featured: false
 
