@@ -6,7 +6,7 @@ title: Jui-Yang Hsu
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Researcher <br /> Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,4 +74,4 @@ email: ""
 highlight_name: true
 ---
 
-Jui-Yang received the M.S. and B.S. degree from National Taiwan University (NTU), Taipei, Taiwan in 2018 and 2021, respectively.
+Jui-Yang received the M.S. and B.S. degree from National Taiwan University (NTU), Taipei, Taiwan in 2018 and 2021, respectively. TBD
