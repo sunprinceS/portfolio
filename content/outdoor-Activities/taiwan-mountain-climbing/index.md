@@ -38,8 +38,6 @@ categories:
 
 ---
 
-TODO: add carousel for photos
-
 ## 岩場
 * 金面山
 * 五寮尖

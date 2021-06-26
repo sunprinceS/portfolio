@@ -39,8 +39,6 @@ categories:
 
 ---
 
-TODO: add carousel for photos
-
 * 2020/06 - Xueshan East Peak (雪山東峰), 3886m
 * 2020/06 - Xueshan (雪山主峰), 3201m
 * 2020/08 - Qilaishan South Peak (奇萊南峰), 3358m
