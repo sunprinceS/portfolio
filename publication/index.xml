@@ -5,30 +5,51 @@
     <link>https://sunprinces.github.io/portfolio/publication/</link>
       <atom:link href="https://sunprinces.github.io/portfolio/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2018-2021} Jui-Yang Hsu</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2018-2021} Jui-Yang Hsu</copyright><lastBuildDate>Thu, 03 Dec 2020 14:01:55 +0800</lastBuildDate>
     <image>
-      <url>https://sunprinces.github.io/portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sunprinces.github.io/portfolio/media/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://sunprinces.github.io/portfolio/publication/</link>
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://sunprinces.github.io/portfolio/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://sunprinces.github.io/portfolio/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>User-realistic path synthesis via multi-task generative adversarial networks for continuous path keyboard input</title>
+      <link>https://sunprinces.github.io/portfolio/publication/gan-sync-path/</link>
+      <pubDate>Thu, 03 Dec 2020 14:01:55 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/gan-sync-path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DARTS-ASR: Differentiable Architecture Search for Multilingual Speech Recognition and Adaptation</title>
+      <link>https://sunprinces.github.io/portfolio/publication/asr-arch-search/</link>
+      <pubDate>Wed, 13 May 2020 14:02:05 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/asr-arch-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Learning for End-to-End Low-Resource Speech Recognition</title>
+      <link>https://sunprinces.github.io/portfolio/publication/metaasr/</link>
+      <pubDate>Mon, 04 May 2020 14:01:37 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/metaasr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD</title>
+      <link>https://sunprinces.github.io/portfolio/publication/qa-journal/</link>
+      <pubDate>Sat, 13 Apr 2019 14:01:44 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/qa-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
+      <link>https://sunprinces.github.io/portfolio/publication/ham-qa/</link>
+      <pubDate>Sun, 04 Dec 2016 14:01:28 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/ham-qa/</guid>
+      <description></description>
     </item>
     
   </channel>

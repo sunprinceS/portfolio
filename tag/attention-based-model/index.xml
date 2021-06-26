@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attention-based Model | Tony Hsu</title>
+    <link>https://sunprinces.github.io/portfolio/tag/attention-based-model/</link>
+      <atom:link href="https://sunprinces.github.io/portfolio/tag/attention-based-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Attention-based Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2018-2021} Jui-Yang Hsu</copyright><lastBuildDate>Sun, 04 Dec 2016 14:01:28 +0800</lastBuildDate>
+    <image>
+      <url>https://sunprinces.github.io/portfolio/media/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
+      <title>Attention-based Model</title>
+      <link>https://sunprinces.github.io/portfolio/tag/attention-based-model/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content</title>
+      <link>https://sunprinces.github.io/portfolio/publication/ham-qa/</link>
+      <pubDate>Sun, 04 Dec 2016 14:01:28 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/ham-qa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

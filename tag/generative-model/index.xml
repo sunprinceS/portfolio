@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generative Model | Tony Hsu</title>
+    <link>https://sunprinces.github.io/portfolio/tag/generative-model/</link>
+      <atom:link href="https://sunprinces.github.io/portfolio/tag/generative-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generative Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2018-2021} Jui-Yang Hsu</copyright><lastBuildDate>Thu, 03 Dec 2020 14:01:55 +0800</lastBuildDate>
+    <image>
+      <url>https://sunprinces.github.io/portfolio/media/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
+      <title>Generative Model</title>
+      <link>https://sunprinces.github.io/portfolio/tag/generative-model/</link>
+    </image>
+    
+    <item>
+      <title>User-realistic path synthesis via multi-task generative adversarial networks for continuous path keyboard input</title>
+      <link>https://sunprinces.github.io/portfolio/publication/gan-sync-path/</link>
+      <pubDate>Thu, 03 Dec 2020 14:01:55 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/gan-sync-path/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

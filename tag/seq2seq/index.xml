@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seq2Seq | Tony Hsu</title>
+    <link>https://sunprinces.github.io/portfolio/tag/seq2seq/</link>
+      <atom:link href="https://sunprinces.github.io/portfolio/tag/seq2seq/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seq2Seq</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2018-2021} Jui-Yang Hsu</copyright><lastBuildDate>Thu, 03 Dec 2020 14:01:55 +0800</lastBuildDate>
+    <image>
+      <url>https://sunprinces.github.io/portfolio/media/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
+      <title>Seq2Seq</title>
+      <link>https://sunprinces.github.io/portfolio/tag/seq2seq/</link>
+    </image>
+    
+    <item>
+      <title>User-realistic path synthesis via multi-task generative adversarial networks for continuous path keyboard input</title>
+      <link>https://sunprinces.github.io/portfolio/publication/gan-sync-path/</link>
+      <pubDate>Thu, 03 Dec 2020 14:01:55 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/gan-sync-path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DARTS-ASR: Differentiable Architecture Search for Multilingual Speech Recognition and Adaptation</title>
+      <link>https://sunprinces.github.io/portfolio/publication/asr-arch-search/</link>
+      <pubDate>Wed, 13 May 2020 14:02:05 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/asr-arch-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Learning for End-to-End Low-Resource Speech Recognition</title>
+      <link>https://sunprinces.github.io/portfolio/publication/metaasr/</link>
+      <pubDate>Mon, 04 May 2020 14:01:37 +0800</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/publication/metaasr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
