@@ -31,6 +31,7 @@ authors:
 - admin
 
 tags:
+- Taiwan
 
 categories:
 - Mountain
