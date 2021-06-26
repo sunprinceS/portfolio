@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Tony Hsu</title>
+    <title>Authors on Tony Hsu</title>
     <link>https://sunprinces.github.io/portfolio/authors/</link>
-      <atom:link href="https://sunprinces.github.io/portfolio/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jui-Yang Hsu</copyright><lastBuildDate>Mon, 04 May 2020 10:22:58 +0800</lastBuildDate>
-    <image>
-      <url>https://sunprinces.github.io/portfolio/images/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://sunprinces.github.io/portfolio/authors/</link>
-    </image>
+    <description>Recent content in Authors on Tony Hsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jui-Yang Hsu</copyright><atom:link href="https://sunprinces.github.io/portfolio/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://sunprinces.github.io/portfolio/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sunprinces.github.io/portfolio/authors/admin/</guid>
+      <description>I&amp;rsquo;m a 2nd year Master student in Speech Processing &amp;amp; Machine Learning Laboratory at NTU EECS, supervised by Prof. Hung-Yi Lee</description>
+    </item>
     
   </channel>
 </rss>

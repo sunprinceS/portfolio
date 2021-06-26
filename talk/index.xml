@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Tony Hsu</title>
+    <title>Recent &amp; Upcoming Talks on Tony Hsu</title>
     <link>https://sunprinces.github.io/portfolio/talk/</link>
-      <atom:link href="https://sunprinces.github.io/portfolio/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jui-Yang Hsu</copyright>
-    <image>
-      <url>https://sunprinces.github.io/portfolio/images/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sunprinces.github.io/portfolio/talk/</link>
-    </image>
-    
+    <description>Recent content in Recent &amp; Upcoming Talks on Tony Hsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jui-Yang Hsu</copyright><atom:link href="https://sunprinces.github.io/portfolio/talk/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
