@@ -19,7 +19,7 @@ publishDate: 2021-06-26T14:01:37+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "45th International Conference on Acoustics, Speech, and Signal Processing, 2020"
+publication: "45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020"
 publication_short: "ICASSP 2020"
 
 abstract: "In this paper, we proposed to apply meta learning approach for low-resource automatic speech recognition (ASR). We formulated ASR for different languages as different tasks, and meta-learned the initialization parameters from many pretraining languages to achieve fast adaptation on unseen target language, via recently proposed model-agnostic meta learning algorithm (MAML). We evaluated the proposed approach using six languages as pretraining tasks and four languages as target tasks. Preliminary results showed that the proposed method, MetaASR, significantly outperforms the state-of-the-art multitask pretraining approach on all target languages with different combinations of pretraining languages. In addition, since MAML's model-agnostic property, this paper also opens new research direction of applying meta learning to more speech-related applications."

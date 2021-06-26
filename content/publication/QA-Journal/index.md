@@ -23,7 +23,7 @@ publishDate: 2021-06-26T14:01:44+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+publication: "2019 IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)"
 publication_short: "TASLP"
 
 abstract: "Although multimedia or spoken content presents more attractive information than plain text content, the former is more difficult to display on a screen and be selected by a user. As a result, for humans, accessing large collections of spoken content is much more difficult and time-consuming than doing so for text content. It would therefore be helpful to develop machines which understand spoken content. In this paper, we propose two new tasks for machine comprehension of spoken content. The first is a listening comprehension test for TOEFL, a challenging academic English examination for English learners whose native languages are not English. We show that the proposed model outperforms the naive approaches and other neural network based models by exploiting the hierarchical structures of natural languages and the selective power of attention mechanism. For the second listening comprehension task – spoken SQuAD – we find that speech recognition errors severely impair machine comprehension; we propose the use of subword units to mitigate the impact of these errors."

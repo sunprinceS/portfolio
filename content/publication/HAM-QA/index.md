@@ -25,7 +25,7 @@ publishDate: 2021-06-26T14:01:28+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2016 IEEE Workshop on Spoken Language Technology"
+publication: "2016 IEEE Workshop on Spoken Language Technology (SLT)"
 publication_short: "SLT"
 
 abstract: "Multimedia or spoken content presents more attractive information than plain text content, but the former is more difficult to display on a screen and be selected by a user. As a result, accessing large collections of the former is much more difficult and time-consuming than the latter for humans. It’s therefore highly attractive to develop machines which can automatically understand spoken content and summarize the key information for humans to browse over. In this endeavor, a new task of machine comprehension of spoken content was proposed recently. The initial goal was defined as the listening comprehension test of TOEFL, a challenging academic English examination for English learners whose native languages are not English. An Attention-based Multi-hop Recurrent Neural Network (AMRNN) architecture was also proposed for this task, which considered only the sequential relationship within the speech utterances. In this paper, we propose a new Hierarchical Attention Model (HAM), which constructs multi-hopped attention mechanism over tree-structured rather than sequential representations for the utterances. Improved comprehension performance robust with respect to ASR errors were obtained."
