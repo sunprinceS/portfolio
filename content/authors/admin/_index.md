@@ -29,7 +29,7 @@ education:
   - course: MSE in Computer Science
     institution: National Taiwan University
     year: 2018 - 2021
-  - course: Exchange Student in CS
+  - course: Exchange Student in CSC
     institution: Kungliga Tekniska högskolan
     year: 2017 - 2018
   - course: BSE in Electrical Engineering
