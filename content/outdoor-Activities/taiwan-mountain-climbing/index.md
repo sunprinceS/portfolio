@@ -56,6 +56,9 @@ carousel_item:
   image: 1.jpg
   caption: 硬漢嶺展望
 - album: hiking
+  image: 2.jpg
+  caption: 立霧山
+- album: hiking
   image: 3.jpg
   caption: 金面山
 - album: hiking
