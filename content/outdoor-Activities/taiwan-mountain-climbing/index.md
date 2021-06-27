@@ -2,7 +2,7 @@
 title: Mountain Climbing in Taiwan
 
 # Summary for listings and search engines
-summary: I started my adventure for hiking 100 Mountains at 2020.
+summary: I enjoy wandering in the nature.
 
 # Link this post with a project
 projects: []

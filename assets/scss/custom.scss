@@ -1,0 +1,26 @@
+.gallery {
+  margin: 0.5em -4px 1.5em -4px;
+  font-size: 0;
+}
+
+.gallery a[data-fancybox] img {
+  height: 140px;
+  width: auto;
+  max-width: inherit;
+  display: inherit;
+  margin: 0;
+  padding: 4px;
+  box-shadow: none;
+  vertical-align: inherit;
+}
+
+
+.progress {
+    display: flex;
+    height: 3rem;
+    overflow: hidden;
+    line-height: 0;
+    font-size: 1.75rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+}
