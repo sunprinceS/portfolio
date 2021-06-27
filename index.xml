@@ -921,6 +921,23 @@
     </item>
     
     <item>
+      <title>World Travelling</title>
+      <link>https://sunprinces.github.io/portfolio/outdoor-activities/world-travelling/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/outdoor-activities/world-travelling/</guid>
+      <description>
+&lt;div class=&#34;d-none&#34;&gt;
+    &lt;input id=&#34;map-provider&#34; value=&#34;mapnik&#34;&gt;
+    &lt;input id=&#34;map-lat&#34; value=&#34;25.0173&#34;&gt;
+    &lt;input id=&#34;map-lng&#34; value=&#34;121.5398&#34;&gt;
+    &lt;input id=&#34;map-zoom&#34; value=&#34;15&#34;&gt;
+  &lt;/div&gt;
+&lt;div id=&#34;map&#34; style=&#34;height: 720px&#34;&gt;&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>User-realistic path synthesis via multi-task generative adversarial networks for continuous path keyboard input</title>
       <link>https://sunprinces.github.io/portfolio/publication/gan-sync-path/</link>
       <pubDate>Thu, 03 Dec 2020 14:01:55 +0800</pubDate>

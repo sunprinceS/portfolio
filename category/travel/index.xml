@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel | Tony Hsu</title>
+    <link>https://sunprinces.github.io/portfolio/category/travel/</link>
+      <atom:link href="https://sunprinces.github.io/portfolio/category/travel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Travel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2018-present} Jui-Yang Hsu</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sunprinces.github.io/portfolio/media/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
+      <title>Travel</title>
+      <link>https://sunprinces.github.io/portfolio/category/travel/</link>
+    </image>
+    
+    <item>
+      <title>World Travelling</title>
+      <link>https://sunprinces.github.io/portfolio/outdoor-activities/world-travelling/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunprinces.github.io/portfolio/outdoor-activities/world-travelling/</guid>
+      <description>
+&lt;div class=&#34;d-none&#34;&gt;
+    &lt;input id=&#34;map-provider&#34; value=&#34;mapnik&#34;&gt;
+    &lt;input id=&#34;map-lat&#34; value=&#34;25.0173&#34;&gt;
+    &lt;input id=&#34;map-lng&#34; value=&#34;121.5398&#34;&gt;
+    &lt;input id=&#34;map-zoom&#34; value=&#34;15&#34;&gt;
+  &lt;/div&gt;
+&lt;div id=&#34;map&#34; style=&#34;height: 720px&#34;&gt;&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
