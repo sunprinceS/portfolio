@@ -37,10 +37,14 @@
       <link>https://sunprinces.github.io/portfolio/outdoor-activities/taiwan100-peaks/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://sunprinces.github.io/portfolio/outdoor-activities/taiwan100-peaks/</guid>
-      <description>&lt;div class=&#34;progress&#34;&gt;
+      <description>&lt;p&gt;
+
+
+&lt;div class=&#34;progress&#34;&gt;
   &lt;div class=&#34;progress-bar progress-bar-striped progress-bar-animated bg-info&#34; role=&#34;progressbar&#34; style=&#34;width: 16%&#34; aria-valuenow=&#34;10&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34;&gt;16%&lt;/div&gt;
 &lt;/div&gt;
-&lt;br /&gt;
+
+&lt;br /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;2020/06 - Xueshan East Peak (雪山東峰), 3886m&lt;/p&gt;
@@ -476,6 +480,141 @@
 &lt;li&gt;鳶嘴山&lt;/li&gt;
 &lt;li&gt;劍龍稜&lt;/li&gt;
 &lt;/ul&gt;
+
+
+
+
+
+&lt;div class=&#34;section&#34; id=&#34;carousel-climbing&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;div class=&#34;row justify-content-center&#34;&gt;
+      &lt;div class=&#34;col&#34;&gt;
+        &lt;div id=&#34;carouselIndicators-climbing&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;
+          &lt;ol class=&#34;carousel-indicators&#34;&gt;
+            
+              
+              
+                
+              
+              &lt;li data-target=&#34;#carouselIndicators-climbing&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-climbing&#34; data-slide-to=&#34;1&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-climbing&#34; data-slide-to=&#34;2&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-climbing&#34; data-slide-to=&#34;3&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-climbing&#34; data-slide-to=&#34;4&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+          &lt;/ol&gt;
+          &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
+          
+            
+            
+              
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item active &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/climbing/1_hu12e9d677b2ea5db9361e5d92c291f936_295429_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/climbing/1.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;皇帝殿&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/climbing/2_hu30c1116298de77477c59d67a54fe7946_301571_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/climbing/2.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/climbing/3_huc06fbca8c94859d3220ceba9dd69e716_210644_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/climbing/3.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/climbing/4_hu0894cbd1f71b139109700f92de90e213_317805_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/climbing/4.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;鳶嘴展望&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/climbing/5_hucc4f00d49772c45bb4a46ae28172b5e7_1476686_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/climbing/5.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;劍龍稜&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+          &lt;/div&gt;
+          &lt;a class=&#34;carousel-control-prev&#34; href=&#34;#carouselIndicators-climbing&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
+            &lt;span class=&#34;carousel-control-prev-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;i class=&#34;now-ui-icons arrows-1_minimal-left&#34;&gt;&lt;/i&gt;
+          &lt;/a&gt;
+          &lt;a class=&#34;carousel-control-next&#34; href=&#34;#carouselIndicators-climbing&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
+            &lt;span class=&#34;carousel-control-next-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;i class=&#34;now-ui-icons arrows-1_minimal-right&#34;&gt;&lt;/i&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;縱走&#34;&gt;縱走&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;慈母峰、孝子山&lt;/li&gt;
@@ -483,11 +622,222 @@
 &lt;li&gt;羅馬縱走&lt;/li&gt;
 &lt;li&gt;立霧山&lt;/li&gt;
 &lt;/ul&gt;
+
+
+
+
+
+&lt;div class=&#34;section&#34; id=&#34;carousel-hiking&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;div class=&#34;row justify-content-center&#34;&gt;
+      &lt;div class=&#34;col&#34;&gt;
+        &lt;div id=&#34;carouselIndicators-hiking&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;
+          &lt;ol class=&#34;carousel-indicators&#34;&gt;
+            
+              
+              
+                
+              
+              &lt;li data-target=&#34;#carouselIndicators-hiking&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-hiking&#34; data-slide-to=&#34;1&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-hiking&#34; data-slide-to=&#34;2&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-hiking&#34; data-slide-to=&#34;3&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+          &lt;/ol&gt;
+          &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
+          
+            
+            
+              
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item active &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/hiking/1_hudd82277d7ff13bd18d13b82c6d9e6669_332419_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/hiking/1.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;硬漢嶺展望&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/hiking/2_hue1d0b7c8ee0bb028d8745a630d8c2013_466395_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/hiking/2.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/hiking/3_hu9a5571b1f33ec205f4488bb2223947ee_521419_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/hiking/3.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;金面山&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/hiking/4_hu7dfb890c61cd0a5332f196b96b7d87d0_197865_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/hiking/4.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;平溪 - 望古瀑布&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+          &lt;/div&gt;
+          &lt;a class=&#34;carousel-control-prev&#34; href=&#34;#carouselIndicators-hiking&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
+            &lt;span class=&#34;carousel-control-prev-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;i class=&#34;now-ui-icons arrows-1_minimal-left&#34;&gt;&lt;/i&gt;
+          &lt;/a&gt;
+          &lt;a class=&#34;carousel-control-next&#34; href=&#34;#carouselIndicators-hiking&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
+            &lt;span class=&#34;carousel-control-next-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;i class=&#34;now-ui-icons arrows-1_minimal-right&#34;&gt;&lt;/i&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;湖景&#34;&gt;湖景&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;嘉明湖&lt;/li&gt;
 &lt;li&gt;水漾森林&lt;/li&gt;
 &lt;/ul&gt;
+
+
+
+
+
+&lt;div class=&#34;section&#34; id=&#34;carousel-pond&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;div class=&#34;row justify-content-center&#34;&gt;
+      &lt;div class=&#34;col&#34;&gt;
+        &lt;div id=&#34;carouselIndicators-pond&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;
+          &lt;ol class=&#34;carousel-indicators&#34;&gt;
+            
+              
+              
+                
+              
+              &lt;li data-target=&#34;#carouselIndicators-pond&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-pond&#34; data-slide-to=&#34;1&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-pond&#34; data-slide-to=&#34;2&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
+          &lt;/ol&gt;
+          &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
+          
+            
+            
+              
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item active &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/pond/1_hu27f261358344b38df584ad68f1aab278_779759_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/pond/1.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;水漾森林&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/pond/2_hu847007487135ed22cc93825a74a6d4ab_323033_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/pond/2.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+            
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/pond/3_hu220daad901eca01274a9313070e99851_847020_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/pond/3.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;天使之淚&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
+          &lt;/div&gt;
+          &lt;a class=&#34;carousel-control-prev&#34; href=&#34;#carouselIndicators-pond&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
+            &lt;span class=&#34;carousel-control-prev-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;i class=&#34;now-ui-icons arrows-1_minimal-left&#34;&gt;&lt;/i&gt;
+          &lt;/a&gt;
+          &lt;a class=&#34;carousel-control-next&#34; href=&#34;#carouselIndicators-pond&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
+            &lt;span class=&#34;carousel-control-next-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;i class=&#34;now-ui-icons arrows-1_minimal-right&#34;&gt;&lt;/i&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
