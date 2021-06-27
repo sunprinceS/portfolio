@@ -6,4 +6,5 @@
 public/
 jsconfig.json
 node_modules/
+assets/media/albums/
 .DS_Store
