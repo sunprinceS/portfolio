@@ -39,9 +39,7 @@ categories:
 
 ---
 
-<div class="progress">
-  <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" style="width: 16%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">16%</div>
-</div>
+{{< achievement_progress progress="16" >}}
 <br />
 
 * 2020/06 - Xueshan East Peak (雪山東峰), 3886m
