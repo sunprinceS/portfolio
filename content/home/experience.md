@@ -74,8 +74,9 @@ experience:
     date_end: '2018-06-02'
     description: |2-
       Exchanged to the department of Comuter Science & Communication (CSC)
-      * Travelling in Europe [[link]](https://sunprinces.github.io/photography/) 
+      * Travelling in Europe [[link]](outdoor-activities/world-travelling) 
       * Life murmur [[link]](https://sunprincelife.wordpress.com/)
+      * Travelling gallery [[link]](https://sunprinces.github.io/photography/)
 
   - title: Speech Research Intern
     company: Delta Research Center (DRC)
