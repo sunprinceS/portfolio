@@ -849,14 +849,141 @@
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://sunprinces.github.io/portfolio/outdoor-activities/world-travelling/</guid>
       <description>
-&lt;div class=&#34;d-none&#34;&gt;
-    &lt;input id=&#34;map-provider&#34; value=&#34;mapnik&#34;&gt;
-    &lt;input id=&#34;map-zoom&#34; value=&#34;11&#34;&gt;
-    &lt;input id=&#34;map-lat&#34; value=&#34;25.0173&#34;&gt;
-    &lt;input id=&#34;map-lng&#34; value=&#34;121.5398&#34;&gt;
-  &lt;/div&gt;
-&lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
 
+
+
+
+&lt;div class=&#34;d-none&#34;&gt;
+  &lt;input id=&#34;map-provider&#34; value=&#34;mapnik&#34;&gt;
+  &lt;input id=&#34;map-zoom&#34; value=&#34;5&#34;&gt;
+  &lt;input id=&#34;map-init-lat&#34; value=&#34;59.2915&#34;&gt;
+  &lt;input id=&#34;map-init-lng&#34; value=&#34;17.9249&#34;&gt;
+  &lt;input id=&#34;map-num-markers&#34; value=&#34;12&#34;&gt;
+
+  
+  &lt;input id=&#34;marker0-lat&#34; value=&#34;60.8611&#34;&gt;
+  &lt;input id=&#34;marker0-lng&#34; value=&#34;7.1116&#34;&gt;
+  &lt;input id=&#34;marker0-title&#34; value=&#34;Norway in a nutshell&#34;&gt;
+  &lt;input id=&#34;marker0-desc&#34; value=&#34;還記得在 Flåm 下車時，彩虹橫亙峽灣兩端的美景； 那晚在小木屋喝著🍺，用著均非自己母語的語言談天說地 🥰&#34;&gt;
+  &lt;input id=&#34;marker0-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker0-img&#34; value=&#34;/portfolio/media/thumbnail/world/norway_in_a_nutshell_hudd7677ba41b75574aefc37b3c307ebaf_208253_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker1-lat&#34; value=&#34;64.2789&#34;&gt;
+  &lt;input id=&#34;marker1-lng&#34; value=&#34;-21.1286&#34;&gt;
+  &lt;input id=&#34;marker1-title&#34; value=&#34;冰島紀行&#34;&gt;
+  &lt;input id=&#34;marker1-desc&#34; value=&#34;天蒼蒼野茫茫的壯闊（但看到的是馬 🐎  而非牛羊）， 雜以地熱產生的蒸氣及遠處被雪覆蓋的山頭 🏔️&#34;&gt;
+  &lt;input id=&#34;marker1-date&#34; value=&#34;April 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker1-img&#34; value=&#34;/portfolio/media/thumbnail/world/iceland_landscape_hu8d07ca705a675831a4e74082f1cb3a2e_210933_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker2-lat&#34; value=&#34;59.9297&#34;&gt;
+  &lt;input id=&#34;marker2-lng&#34; value=&#34;10.7012&#34;&gt;
+  &lt;input id=&#34;marker2-title&#34; value=&#34;Chasing the light ✨&#34;&gt;
+  &lt;input id=&#34;marker2-desc&#34; value=&#34;📍 維格蘭雕塑公園 (Vigelandsparken)&#34;&gt;
+  &lt;input id=&#34;marker2-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker2-img&#34; value=&#34;/portfolio/media/thumbnail/world/chasing_the_light_hubdbf573207a4f278c5aea35633428ed7_344727_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker3-lat&#34; value=&#34;51.5076&#34;&gt;
+  &lt;input id=&#34;marker3-lng&#34; value=&#34;-0.07508&#34;&gt;
+  &lt;input id=&#34;marker3-title&#34; value=&#34;Tower Bridge&#34;&gt;
+  &lt;input id=&#34;marker3-desc&#34; value=&#34;原本要等 magic hour 燒的通紅的雲彩，不料天氣太好到連一朵雲都沒有 😂， 完全暗下來後還比較好看，在橋下跟拿著大砲跟神秘水晶球 🔮 的攝影師一起等待那絕佳的時刻也是很特別的體驗 📸&#34;&gt;
+  &lt;input id=&#34;marker3-date&#34; value=&#34;January 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker3-img&#34; value=&#34;/portfolio/media/thumbnail/world/london_hu17efd6e2c25d23af653084266ff9101d_458773_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker4-lat&#34; value=&#34;48.8608&#34;&gt;
+  &lt;input id=&#34;marker4-lng&#34; value=&#34;2.3522&#34;&gt;
+  &lt;input id=&#34;marker4-title&#34; value=&#34;ART ❓ &#34;&gt;
+  &lt;input id=&#34;marker4-desc&#34; value=&#34;📍 龐畢度藝術中心 (Centre Georges-Pompidou)。藝術是比工程還高的事物，工程是有所局限的，而之所以現在成為顯學，是因為滿足時代的需要，最基本的需要，但像美學、文學這種或許不那麼容易養活一個人的學問，卻是更貼近人性、帶來更高層次的滿足&#34;&gt;
+  &lt;input id=&#34;marker4-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker4-img&#34; value=&#34;/portfolio/media/thumbnail/world/Pompidou_hude0ae879a71b71f8e897f16e3b758194_270425_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker5-lat&#34; value=&#34;59.4389&#34;&gt;
+  &lt;input id=&#34;marker5-lng&#34; value=&#34;24.7403&#34;&gt;
+  &lt;input id=&#34;marker5-title&#34; value=&#34;塔林老城&#34;&gt;
+  &lt;input id=&#34;marker5-desc&#34; value=&#34;環繞的古城牆，斑駁卻依然矗立的塔樓 🏰 ，散發濃濃的古風，間或身著中世紀服裝者從身旁走過，令人不禁會心一笑。外圍海域並無防禦性小島作為防線的塔林位處前線，理所當然該有這些防禦設施&#34;&gt;
+  &lt;input id=&#34;marker5-date&#34; value=&#34;September 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker5-img&#34; value=&#34;/portfolio/media/thumbnail/world/Tallinn_hu863a92d13e3ef063ebb7b1f452a7b8ad_168631_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker6-lat&#34; value=&#34;60.3782&#34;&gt;
+  &lt;input id=&#34;marker6-lng&#34; value=&#34;5.3869&#34;&gt;
+  &lt;input id=&#34;marker6-title&#34; value=&#34;Ulriken – Fløyen 健行&#34;&gt;
+  &lt;input id=&#34;marker6-desc&#34; value=&#34;走在兩山之間的等高線上，並沒有什麼能阻擋我們的視野。太陽掛在天上，攝氏兩度，提供一點餘溫予於此行走的眾生。山頂上草茫茫，也鋪上了屬於秋季的褐黃&#34;&gt;
+  &lt;input id=&#34;marker6-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker6-img&#34; value=&#34;/portfolio/media/thumbnail/world/Bergen_hiking_hu033bb59eb42c702fa72837774cb661c6_1446997_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker7-lat&#34; value=&#34;59.3266&#34;&gt;
+  &lt;input id=&#34;marker7-lng&#34; value=&#34;18.1133&#34;&gt;
+  &lt;input id=&#34;marker7-title&#34; value=&#34;皇族獵場 - 動物園島&#34;&gt;
+  &lt;input id=&#34;marker7-desc&#34; value=&#34;📍 Djurgården。那天翹了 A1 Swedish，參觀完歷史博物館後，順道步行至曾經是皇族獵場，現在則是供各種動物們做日光浴的動物園島。瑞典的夏日是十分愜意的，午後剛剛好的陽光，讓人不自覺就繞島了一周 🍹&#34;&gt;
+  &lt;input id=&#34;marker7-date&#34; value=&#34;August 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker7-img&#34; value=&#34;/portfolio/media/thumbnail/world/Stockholm_Djurgarden_hu83c3b047e3d0064e557262b670d7c9f4_898041_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker8-lat&#34; value=&#34;59.3230&#34;&gt;
+  &lt;input id=&#34;marker8-lng&#34; value=&#34;18.0456&#34;&gt;
+  &lt;input id=&#34;marker8-title&#34; value=&#34;Kayak 初體驗 🛶 &#34;&gt;
+  &lt;input id=&#34;marker8-desc&#34; value=&#34;適逢 INTERSPEECH，跟 Ray 和 Roy 一起從 Hornstulls 出發，到快接近市政廳的地方才折返，hen 有趣 😆 &#34;&gt;
+  &lt;input id=&#34;marker8-date&#34; value=&#34;August 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker8-img&#34; value=&#34;/portfolio/media/thumbnail/world/Stockholm_kayak_hu4f5772b859d056e7c24a7b958e0a1948_654817_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker9-lat&#34; value=&#34;55.6800&#34;&gt;
+  &lt;input id=&#34;marker9-lng&#34; value=&#34;12.5909&#34;&gt;
+  &lt;input id=&#34;marker9-title&#34; value=&#34;交換的第一次出國旅行 🎒&#34;&gt;
+  &lt;input id=&#34;marker9-desc&#34; value=&#34;📍 Nyhavn, Copenhagen 第一次出國 (aka 出瑞典 😆 )，嘗試了只花 20 丹麥克朗過完 3 天的極限窮遊，那 20 kr 還是因為要投置物櫃才獲得的，不然打算直接 0 元走跳哥本哈根 （有體驗就好，下不為例 😂 ）&#34;&gt;
+  &lt;input id=&#34;marker9-date&#34; value=&#34;August 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker9-img&#34; value=&#34;/portfolio/media/thumbnail/world/Copenhagen_hu07da4e639132afe7aa3bc3dcbb997c9e_632486_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker10-lat&#34; value=&#34;54.8981&#34;&gt;
+  &lt;input id=&#34;marker10-lng&#34; value=&#34;23.8974&#34;&gt;
+  &lt;input id=&#34;marker10-title&#34; value=&#34;Kaunas 街拍&#34;&gt;
+  &lt;input id=&#34;marker10-desc&#34; value=&#34;過早走完維爾紐斯想看的點，臨時起意地來到 🇱🇹 的第二大城&#34;&gt;
+  &lt;input id=&#34;marker10-date&#34; value=&#34;November 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker10-img&#34; value=&#34;/portfolio/media/thumbnail/world/Kaunas_hua53cc22d33174b4bedf58cf0e4ec0f47_1409422_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker11-lat&#34; value=&#34;41.8991&#34;&gt;
+  &lt;input id=&#34;marker11-lng&#34; value=&#34;12.4798&#34;&gt;
+  &lt;input id=&#34;marker11-title&#34; value=&#34;⛪ 聖依納爵堂 - 壁畫&#34;&gt;
+  &lt;input id=&#34;marker11-desc&#34; value=&#34;走進教堂，光線從穹頂的天窗透入，道道金黃光芒四散，落於殿內的祭壇上。側廊樑柱上的浮雕精緻細膩，即便是在那翻飛的頂端亦如是，而天花板上的壁畫精彩程度也不遑多讓，訴說著神與神、神與人、人與人之間千年來的故事&#34;&gt;
+  &lt;input id=&#34;marker11-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker11-img&#34; value=&#34;/portfolio/media/thumbnail/world/Rome_church_hucc6c98f3dab1933e88e0a2fe827c0797_723887_0x150_resize_q75_lanczos.jpg&#34;&gt;
+  
+&lt;/div&gt;
+&lt;div id=&#34;map&#34; style=&#34;height: 600px;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;num_markers&#34;&gt;目前有 12 則故事，未完待續 &lt;/div&gt;
 </description>
     </item>
     
