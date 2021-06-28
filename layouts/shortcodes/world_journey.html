@@ -1,0 +1,19 @@
+{{ $data := $.Page.Params.map }}
+{{ $markers := $data.marker_items}}
+{{ $num_markers := len $markers }}
+<div class="d-none">
+  <input id="map-provider" value="{{ lower site.Params.map.provider }}">
+  <input id="map-zoom" value="{{ site.Params.map.zoom | default " 11" }}">
+  <input id="map-init-lat" value="{{ $data.init_lat }}">
+  <input id="map-init-lng" value="{{ $data.init_lng }}">
+  <input id="map-num-markers" value="{{ len $markers }}">
+
+  {{ range $idx, $marker := $markers}}
+  <input id="marker-{{ $idx }}-lat" value="{{ $marker.lat }}">
+  <input id="marker-{{ $idx }}-lng" value="{{ $marker.lng }}">
+  <input id="marker-{{ $idx }}-title" value="{{ $marker.title }}">
+  {{ end }}
+
+</div>
+<div id="num_markers">Number of markers: {{ $num_markers }}</div>
+<div id="map" style="height: 600px;"></div>

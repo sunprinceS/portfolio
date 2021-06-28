@@ -30,11 +30,11 @@ address:
   country: Taiwan
   country_code: TW
 coordinates:
-  latitude: '25.0173'
-  longitude: '121.5398'
-directions: 
+  latitude:
+  longitude:
+directions:
 office_hours:
-appointment_url: 
+appointment_url:
 contact_links:
 # Site header
 
@@ -125,7 +125,7 @@ search:
 map:
   provider: 'Mapnik'
   api_key: ''
-  zoom: 15
+  zoom: 11
 marketing:
   google_analytics: ''
   google_tag_manager: ''
