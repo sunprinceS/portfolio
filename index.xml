@@ -850,12 +850,12 @@
       <guid>https://sunprinces.github.io/portfolio/outdoor-activities/world-travelling/</guid>
       <description>
 &lt;div class=&#34;d-none&#34;&gt;
-    &lt;input id=&#34;mymap-provider&#34; value=&#34;mapnik&#34;&gt;
-    &lt;input id=&#34;mymap-zoom&#34; value=&#34;11&#34;&gt;
-    &lt;input id=&#34;mymap-lat&#34; value=&#34;25.0173&#34;&gt;
-    &lt;input id=&#34;mymap-lng&#34; value=&#34;121.5398&#34;&gt;
+    &lt;input id=&#34;map-provider&#34; value=&#34;mapnik&#34;&gt;
+    &lt;input id=&#34;map-zoom&#34; value=&#34;11&#34;&gt;
+    &lt;input id=&#34;map-lat&#34; value=&#34;25.0173&#34;&gt;
+    &lt;input id=&#34;map-lng&#34; value=&#34;121.5398&#34;&gt;
   &lt;/div&gt;
-&lt;div id=&#34;mymap&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;map&#34;&gt;&lt;/div&gt;
 
 </description>
     </item>
