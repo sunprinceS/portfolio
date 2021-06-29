@@ -13,8 +13,8 @@
   {{ range $idx, $marker := $markers}}
   <input id="marker{{ $idx }}-lat" value="{{ $marker.lat }}">
   <input id="marker{{ $idx }}-lng" value="{{ $marker.lng }}">
-  <input id="marker{{ $idx }}-title" value="{{ $marker.title | emojify }}">
-  <input id="marker{{ $idx }}-desc" value="{{ $marker.desc | emojify }}">
+  <input id="marker{{ $idx }}-title" value="{{ $marker.title }}">
+  <input id="marker{{ $idx }}-desc" value="{{ $marker.desc }}">
   <input id="marker{{ $idx }}-date" value="{{ $marker.date }}">
   {{ $img_path := path.Join "media" "thumbnail" "world" $marker.img }}
   {{ $ori_image := resources.Get $img_path }}
