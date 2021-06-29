@@ -1,0 +1,11 @@
+# Javascript
+[js.leaflet.markercluster]
+  version = "1.5.0"
+  sri = "sha512-8/nLM89o+U+gWYH4orGbC8qlD/3A4JGHarcJ+PSkrkJ3r2a9/2GdXZNidl5pcBvZ/AGqUiBLBg3BUBH4sUzXow=="
+  url = "https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/%s/leaflet.markercluster.min.js"
+
+# CSS
+[css.leaflet.markercluster]
+  version= "1.5.0"
+  sri = "sha512-fYyZwU1wU0QWB4Yutd/Pvhy5J1oWAwFXun1pt+Bps04WSe4Aq6tyHlT4+MHSJhD8JlLfgLuC4CbCnX5KHSjyCg=="
+  url = "https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/%s/MarkerCluster.Default.min.css"

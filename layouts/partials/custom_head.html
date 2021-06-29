@@ -1,0 +1,6 @@
+{{ $css := site.Data.custom.assets.css}}
+
+{{ $map_provider := lower site.Params.map.provider }}
+{{ if in (slice "mapnik" "mapbox") $map_provider }}
+  {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" media=\"print\" onload=\"this.media='all'\">" (printf $css.leaflet.markercluster.url $css.leaflet.markercluster.version) $css.leaflet.markercluster.sri | safeHTML }}
+{{ end }}

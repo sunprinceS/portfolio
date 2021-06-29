@@ -1,0 +1,6 @@
+{{ $js := site.Data.custom.assets.js }}
+
+{{ $map_provider := lower site.Params.map.provider }}
+{{ if in (slice "mapnik" "mapbox") $map_provider }}
+  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.leaflet.markercluster.url $js.leaflet.markercluster.version) $js.leaflet.markercluster.sri | safeHTML }}
+{{ end }}
