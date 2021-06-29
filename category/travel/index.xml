@@ -27,13 +27,13 @@
   &lt;input id=&#34;map-zoom&#34; value=&#34;5&#34;&gt;
   &lt;input id=&#34;map-init-lat&#34; value=&#34;59.2915&#34;&gt;
   &lt;input id=&#34;map-init-lng&#34; value=&#34;17.9249&#34;&gt;
-  &lt;input id=&#34;map-num-markers&#34; value=&#34;14&#34;&gt;
+  &lt;input id=&#34;map-num-markers&#34; value=&#34;21&#34;&gt;
 
   
   &lt;input id=&#34;marker0-lat&#34; value=&#34;60.8611&#34;&gt;
   &lt;input id=&#34;marker0-lng&#34; value=&#34;7.1116&#34;&gt;
   &lt;input id=&#34;marker0-title&#34; value=&#34;Norway in a nutshell&#34;&gt;
-  &lt;input id=&#34;marker0-desc&#34; value=&#34;還記得在 Flåm 下車時，彩虹橫亙峽灣兩端的美景； 那晚在小木屋喝著🍺，用著均非自己母語的語言談天說地 🥰&#34;&gt;
+  &lt;input id=&#34;marker0-desc&#34; value=&#34;還記得在 Flåm 下車時，彩虹橫亙峽灣兩端的美景； 那晚在小木屋喝著🍺&amp;amp;nbsp;，用著均非自己母語的語言談天說地 🥰&#34;&gt;
   &lt;input id=&#34;marker0-date&#34; value=&#34;October 2017&#34;&gt;
   
   
@@ -63,7 +63,7 @@
   &lt;input id=&#34;marker3-lat&#34; value=&#34;51.5076&#34;&gt;
   &lt;input id=&#34;marker3-lng&#34; value=&#34;-0.07508&#34;&gt;
   &lt;input id=&#34;marker3-title&#34; value=&#34;Tower Bridge&#34;&gt;
-  &lt;input id=&#34;marker3-desc&#34; value=&#34;原本要等 magic hour 燒的通紅的雲彩，不料天氣太好到連一朵雲都沒有 😂， 完全暗下來後還比較好看&amp;lt;br /&amp;gt;在橋下跟拿著大砲和水晶球 🔮 的攝影師一起等待絕佳時刻也是很特別的體驗 📸&#34;&gt;
+  &lt;input id=&#34;marker3-desc&#34; value=&#34;原本要等 magic hour 燒的通紅的雲彩，不料天氣太好到連一朵雲都沒有 😂&amp;amp;nbsp;， 完全暗下來後還比較好看&amp;lt;br /&amp;gt;在橋下跟拿著大砲和水晶球 🔮&amp;amp;nbsp; 的攝影師一起等待絕佳時刻也是很特別的體驗 📸&#34;&gt;
   &lt;input id=&#34;marker3-date&#34; value=&#34;January 2018&#34;&gt;
   
   
@@ -123,7 +123,7 @@
   &lt;input id=&#34;marker9-lat&#34; value=&#34;55.6800&#34;&gt;
   &lt;input id=&#34;marker9-lng&#34; value=&#34;12.5909&#34;&gt;
   &lt;input id=&#34;marker9-title&#34; value=&#34;交換的第一次出國旅行 🎒&#34;&gt;
-  &lt;input id=&#34;marker9-desc&#34; value=&#34;📍 Nyhavn, Copenhagen &amp;lt;br /&amp;gt; 第一次出國 (aka 出瑞典 😆 )，嘗試了只花 20 丹麥克朗過完 3 天的極限窮遊，那 20 kr 還是因為要投置物櫃才獲得的，不然打算直接 0 元走跳哥本哈根（有體驗就好，下不為例 😂 ）&#34;&gt;
+  &lt;input id=&#34;marker9-desc&#34; value=&#34;📍 Nyhavn, Copenhagen &amp;lt;br /&amp;gt; 第一次出國 (aka 出瑞典 😆&amp;amp;nbsp; )，嘗試了只花 20 丹麥克朗過完 3 天的極限窮遊，那 20 kr 還是因為要投置物櫃才獲得的，不然打算直接 0 元走跳哥本哈根（有體驗就好，下不為例 😂&amp;amp;nbsp; ）&#34;&gt;
   &lt;input id=&#34;marker9-date&#34; value=&#34;August 2017&#34;&gt;
   
   
@@ -133,7 +133,7 @@
   &lt;input id=&#34;marker10-lat&#34; value=&#34;54.8981&#34;&gt;
   &lt;input id=&#34;marker10-lng&#34; value=&#34;23.8974&#34;&gt;
   &lt;input id=&#34;marker10-title&#34; value=&#34;Kaunas 街拍&#34;&gt;
-  &lt;input id=&#34;marker10-desc&#34; value=&#34;過早走完維爾紐斯想看的點，臨時起意地來到 🇱🇹 的第二大城&#34;&gt;
+  &lt;input id=&#34;marker10-desc&#34; value=&#34;過早走完維爾紐斯想看的點，臨時起意地來到 🇱🇹 &amp;amp;nbsp;的第二大城&#34;&gt;
   &lt;input id=&#34;marker10-date&#34; value=&#34;November 2017&#34;&gt;
   
   
@@ -150,8 +150,8 @@
   
   &lt;input id=&#34;marker11-img&#34; value=&#34;/portfolio/media/thumbnail/world/Rome_church_hucc6c98f3dab1933e88e0a2fe827c0797_723887_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
-  &lt;input id=&#34;marker12-lat&#34; value=&#34;48.85991785&#34;&gt;
-  &lt;input id=&#34;marker12-lng&#34; value=&#34;2.326582834696561&#34;&gt;
+  &lt;input id=&#34;marker12-lat&#34; value=&#34;48.8599&#34;&gt;
+  &lt;input id=&#34;marker12-lng&#34; value=&#34;2.3265&#34;&gt;
   &lt;input id=&#34;marker12-title&#34; value=&#34;Musée d&amp;#39;Orsay&#34;&gt;
   &lt;input id=&#34;marker12-desc&#34; value=&#34;在奧塞美術館度過了充實的一天。&amp;lt;br /&amp;gt;相比於羅浮宮，奧塞收藏了更為近代的館藏，且又不似龐畢度中心對我而言過度現代、抽象，取得了剛好的平衡。聽著租借的語音導覽，領略每件作品背後的意涵實在滿足。&#34;&gt;
   &lt;input id=&#34;marker12-date&#34; value=&#34;October 2017&#34;&gt;
@@ -160,8 +160,8 @@
   
   &lt;input id=&#34;marker12-img&#34; value=&#34;/portfolio/media/thumbnail/world/Orsay_hu3c43d8da3213032a5079af2ab4141acb_676060_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
-  &lt;input id=&#34;marker13-lat&#34; value=&#34;59.3202142&#34;&gt;
-  &lt;input id=&#34;marker13-lng&#34; value=&#34;18.0623609&#34;&gt;
+  &lt;input id=&#34;marker13-lat&#34; value=&#34;59.3202&#34;&gt;
+  &lt;input id=&#34;marker13-lng&#34; value=&#34;18.0623&#34;&gt;
   &lt;input id=&#34;marker13-title&#34; value=&#34;遠眺 Gamla Stan&#34;&gt;
   &lt;input id=&#34;marker13-desc&#34; value=&#34;📍 Mariaberget &amp;lt;br /&amp;gt;這座城市中，我最喜歡的登高所在 🏙️  &amp;lt;br/&amp;gt; 春天來臨之時，從 Liljeholmen 沿著梅拉倫湖散步至市中心，最後在傍晚時分登上這裡，為這一天畫下句點&#34;&gt;
   &lt;input id=&#34;marker13-date&#34; value=&#34;April 2018&#34;&gt;
@@ -170,9 +170,79 @@
   
   &lt;input id=&#34;marker13-img&#34; value=&#34;/portfolio/media/thumbnail/world/Stockholm_Mariaberget_hu273ba1ee8bb4610ff0af2d386cfacfc1_112233_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
+  &lt;input id=&#34;marker14-lat&#34; value=&#34;59.3318&#34;&gt;
+  &lt;input id=&#34;marker14-lng&#34; value=&#34;18.0609&#34;&gt;
+  &lt;input id=&#34;marker14-title&#34; value=&#34; 🏳️‍🌈 Stockholm Pride&#34;&gt;
+  &lt;input id=&#34;marker14-desc&#34; value=&#34;Gay since 1944 &amp;lt;br /&amp;gt;初來瑞典沒有多久，就幸逢這場遊行 &amp;lt;br /&amp;gt;瑞典的性別平等，不只是來自於口頭的支持，而是體現於人們的言行，企業福利和生活各個面向&#34;&gt;
+  &lt;input id=&#34;marker14-date&#34; value=&#34;August 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker14-img&#34; value=&#34;/portfolio/media/thumbnail/world/Stockholm_parade_hu6cc0fc41be4a0cf0b2a7e29f03446d24_253415_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker15-lat&#34; value=&#34;41.8903&#34;&gt;
+  &lt;input id=&#34;marker15-lng&#34; value=&#34;12.4931&#34;&gt;
+  &lt;input id=&#34;marker15-title&#34; value=&#34;永恆之城 - Rome&#34;&gt;
+  &lt;input id=&#34;marker15-desc&#34; value=&#34;📍 Colosseo &amp;lt;br /&amp;gt;站在外圍看台上，感覺其實很複雜。&amp;lt;br /&amp;gt;很難想像千年前有許多生命消逝在這裡，眾目睽睽之下，殺戮與寬恕，僅僅取決於觀眾們的 👍&amp;amp;nbsp; 或 👎&amp;amp;nbsp; ，在滿場躁動的呼聲中，從咽喉噴出的鮮血，灑在場中沙上… 而這些觀眾只不過是來找點日常生活中的樂子罷了&#34;&gt;
+  &lt;input id=&#34;marker15-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker15-img&#34; value=&#34;/portfolio/media/thumbnail/world/Rome_Colosseo_hu362becd223dd23eea899b94a3d0a5a45_437497_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker16-lat&#34; value=&#34;56.9471&#34;&gt;
+  &lt;input id=&#34;marker16-lng&#34; value=&#34;24.1068&#34;&gt;
+  &lt;input id=&#34;marker16-title&#34; value=&#34;Riga&#34;&gt;
+  &lt;input id=&#34;marker16-desc&#34; value=&#34;11 月的里加沒什麼觀光客，連拿相機出來都有種尷尬的感覺。天氣又陰陰的，比爾摩還冷的天氣，整座城市瀰漫著蕭瑟的氛圍。不過這幾天在里加吃 Lido 吃的非常之好，好久沒有吃到這麼便宜(?)又好吃的自助餐了 😋 &amp;amp;nbsp;&#34;&gt;
+  &lt;input id=&#34;marker16-date&#34; value=&#34;November 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker16-img&#34; value=&#34;/portfolio/media/thumbnail/world/Riga_hu0eb811fdda9b5344cd0d25755ff5a222_440422_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker17-lat&#34; value=&#34;41.9050&#34;&gt;
+  &lt;input id=&#34;marker17-lng&#34; value=&#34;12.4551&#34;&gt;
+  &lt;input id=&#34;marker17-title&#34; value=&#34;Musei del Vaticano&#34;&gt;
+  &lt;input id=&#34;marker17-desc&#34; value=&#34;朝聖西斯汀禮拜堂和樓梯 😳&#34;&gt;
+  &lt;input id=&#34;marker17-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker17-img&#34; value=&#34;/portfolio/media/thumbnail/world/Vantican_museum_hu73b2059cb90b423fdaea3781e46e1f00_243867_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker18-lat&#34; value=&#34;41.9022&#34;&gt;
+  &lt;input id=&#34;marker18-lng&#34; value=&#34;12.4537&#34;&gt;
+  &lt;input id=&#34;marker18-title&#34; value=&#34;聖城梵蒂岡&#34;&gt;
+  &lt;input id=&#34;marker18-desc&#34; value=&#34;📍 Basilica di San Pietro&#34;&gt;
+  &lt;input id=&#34;marker18-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker18-img&#34; value=&#34;/portfolio/media/thumbnail/world/Vatican_piazza_hu349e3b396b5569e5266f712106f50d76_106972_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker19-lat&#34; value=&#34;45.4372&#34;&gt;
+  &lt;input id=&#34;marker19-lng&#34; value=&#34;12.3346&#34;&gt;
+  &lt;input id=&#34;marker19-title&#34; value=&#34;水之 100 個島&#34;&gt;
+  &lt;input id=&#34;marker19-desc&#34; value=&#34;📍 Venezia &amp;lt;br/&amp;gt;水路星羅棋布地遍佈整個城市，是個船禍等陸地意外都會有個水版本的所在。然而我們最後還是沒有搭貴桑桑的 Gondola&#34;&gt;
+  &lt;input id=&#34;marker19-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker19-img&#34; value=&#34;/portfolio/media/thumbnail/world/Venice_hu14ab4eb82985864d6ad8677b670bad59_202059_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker20-lat&#34; value=&#34;48.8611&#34;&gt;
+  &lt;input id=&#34;marker20-lng&#34; value=&#34;2.3380&#34;&gt;
+  &lt;input id=&#34;marker20-title&#34; value=&#34;Musée du Louvre&#34;&gt;
+  &lt;input id=&#34;marker20-desc&#34; value=&#34;在羅浮宮待了整整的一天，走到腳酸，還有一堆展館來不及去看，到後來只好用走馬看花模式速覽，以前看烏龍派出所用跑的逛羅浮宮還真不是沒有道理 😂&#34;&gt;
+  &lt;input id=&#34;marker20-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker20-img&#34; value=&#34;/portfolio/media/thumbnail/world/Louvre_hu7d411bcdb0b10a3aa0f7f8dd15fc0e36_130439_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
 &lt;/div&gt;
 &lt;div id=&#34;map&#34; style=&#34;height: 600px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;num_markers&#34;&gt;目前有 14 則故事，未完待續 &lt;/div&gt;
+&lt;div id=&#34;num_markers&#34;&gt;目前有 21 則故事，未完待續 &lt;/div&gt;
 </description>
     </item>
     
