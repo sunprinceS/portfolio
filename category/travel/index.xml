@@ -27,7 +27,7 @@
   &lt;input id=&#34;map-zoom&#34; value=&#34;5&#34;&gt;
   &lt;input id=&#34;map-init-lat&#34; value=&#34;59.2915&#34;&gt;
   &lt;input id=&#34;map-init-lng&#34; value=&#34;17.9249&#34;&gt;
-  &lt;input id=&#34;map-num-markers&#34; value=&#34;21&#34;&gt;
+  &lt;input id=&#34;map-num-markers&#34; value=&#34;30&#34;&gt;
 
   
   &lt;input id=&#34;marker0-lat&#34; value=&#34;60.8611&#34;&gt;
@@ -210,39 +210,129 @@
   
   &lt;input id=&#34;marker17-img&#34; value=&#34;/portfolio/media/thumbnail/world/Vantican_museum_hu73b2059cb90b423fdaea3781e46e1f00_243867_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
-  &lt;input id=&#34;marker18-lat&#34; value=&#34;41.9022&#34;&gt;
-  &lt;input id=&#34;marker18-lng&#34; value=&#34;12.4537&#34;&gt;
-  &lt;input id=&#34;marker18-title&#34; value=&#34;聖城梵蒂岡&#34;&gt;
-  &lt;input id=&#34;marker18-desc&#34; value=&#34;📍 Basilica di San Pietro&#34;&gt;
+  &lt;input id=&#34;marker18-lat&#34; value=&#34;45.4372&#34;&gt;
+  &lt;input id=&#34;marker18-lng&#34; value=&#34;12.3346&#34;&gt;
+  &lt;input id=&#34;marker18-title&#34; value=&#34;水之 100 個島&#34;&gt;
+  &lt;input id=&#34;marker18-desc&#34; value=&#34;📍 Venezia &amp;lt;br/&amp;gt;水路星羅棋布地遍佈整個城市，是個船禍等陸地意外都會有個水版本的所在。然而我們最後還是沒有搭貴桑桑的 Gondola&#34;&gt;
   &lt;input id=&#34;marker18-date&#34; value=&#34;October 2017&#34;&gt;
   
   
   
-  &lt;input id=&#34;marker18-img&#34; value=&#34;/portfolio/media/thumbnail/world/Vatican_piazza_hu349e3b396b5569e5266f712106f50d76_106972_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  &lt;input id=&#34;marker18-img&#34; value=&#34;/portfolio/media/thumbnail/world/Venice_hu14ab4eb82985864d6ad8677b670bad59_202059_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
-  &lt;input id=&#34;marker19-lat&#34; value=&#34;45.4372&#34;&gt;
-  &lt;input id=&#34;marker19-lng&#34; value=&#34;12.3346&#34;&gt;
-  &lt;input id=&#34;marker19-title&#34; value=&#34;水之 100 個島&#34;&gt;
-  &lt;input id=&#34;marker19-desc&#34; value=&#34;📍 Venezia &amp;lt;br/&amp;gt;水路星羅棋布地遍佈整個城市，是個船禍等陸地意外都會有個水版本的所在。然而我們最後還是沒有搭貴桑桑的 Gondola&#34;&gt;
+  &lt;input id=&#34;marker19-lat&#34; value=&#34;48.8611&#34;&gt;
+  &lt;input id=&#34;marker19-lng&#34; value=&#34;2.3380&#34;&gt;
+  &lt;input id=&#34;marker19-title&#34; value=&#34;Musée du Louvre&#34;&gt;
+  &lt;input id=&#34;marker19-desc&#34; value=&#34;在羅浮宮待了整整的一天，走到腳酸，還有一堆展館來不及去看，到後來只好用走馬看花模式速覽，以前看烏龍派出所用跑的逛羅浮宮還真不是沒有道理 😂&#34;&gt;
   &lt;input id=&#34;marker19-date&#34; value=&#34;October 2017&#34;&gt;
   
   
   
-  &lt;input id=&#34;marker19-img&#34; value=&#34;/portfolio/media/thumbnail/world/Venice_hu14ab4eb82985864d6ad8677b670bad59_202059_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  &lt;input id=&#34;marker19-img&#34; value=&#34;/portfolio/media/thumbnail/world/Louvre_hu7d411bcdb0b10a3aa0f7f8dd15fc0e36_130439_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
-  &lt;input id=&#34;marker20-lat&#34; value=&#34;48.8611&#34;&gt;
-  &lt;input id=&#34;marker20-lng&#34; value=&#34;2.3380&#34;&gt;
-  &lt;input id=&#34;marker20-title&#34; value=&#34;Musée du Louvre&#34;&gt;
-  &lt;input id=&#34;marker20-desc&#34; value=&#34;在羅浮宮待了整整的一天，走到腳酸，還有一堆展館來不及去看，到後來只好用走馬看花模式速覽，以前看烏龍派出所用跑的逛羅浮宮還真不是沒有道理 😂&#34;&gt;
-  &lt;input id=&#34;marker20-date&#34; value=&#34;October 2017&#34;&gt;
+  &lt;input id=&#34;marker20-lat&#34; value=&#34;38.9292&#34;&gt;
+  &lt;input id=&#34;marker20-lng&#34; value=&#34;-119.9556&#34;&gt;
+  &lt;input id=&#34;marker20-title&#34; value=&#34;Lake Tahoe&#34;&gt;
+  &lt;input id=&#34;marker20-desc&#34; value=&#34;結束壓力山大的 midterm presentation，到 Tahoe 度過愜意的小週末 &amp;lt;br /&amp;gt;原本是想去優勝美地的，卻好巧不巧遇到了大火封園，只能擇日再訪 &amp;lt;br /&amp;gt; 這次自作聰明用了 Booking 的 Premium，結果訂到超像恐怖片情節的飯店，真是對不住大家🤦‍♂️&#34;&gt;
+  &lt;input id=&#34;marker20-date&#34; value=&#34;August 2018&#34;&gt;
   
   
   
-  &lt;input id=&#34;marker20-img&#34; value=&#34;/portfolio/media/thumbnail/world/Louvre_hu7d411bcdb0b10a3aa0f7f8dd15fc0e36_130439_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  &lt;input id=&#34;marker20-img&#34; value=&#34;/portfolio/media/thumbnail/world/Lake_Tahoe_hue7b9a9ef456761d7d7e2f50d2cce6e7a_156231_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker21-lat&#34; value=&#34;42.9317&#34;&gt;
+  &lt;input id=&#34;marker21-lng&#34; value=&#34;-122.1278&#34;&gt;
+  &lt;input id=&#34;marker21-title&#34; value=&#34;火口湖國家公園&#34;&gt;
+  &lt;input id=&#34;marker21-desc&#34; value=&#34;Long weekend 小旅行來到的最北方，這三個月來首度跨越加州，來到 Oregon &amp;lt;br /&amp;gt; 回程途中停在路肩旁看的銀河，在大水壩前撞見的 🦌 &amp;amp;nbsp...&amp;lt;br /&amp;gt;這趟 road trip 有好多美好的風景 😌&#34;&gt;
+  &lt;input id=&#34;marker21-date&#34; value=&#34;September 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker21-img&#34; value=&#34;/portfolio/media/thumbnail/world/Crater_lake_huc86c3bc2a8856950eb0dfe01e367426f_111180_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker22-lat&#34; value=&#34;38.5583&#34;&gt;
+  &lt;input id=&#34;marker22-lng&#34; value=&#34;-122.5426&#34;&gt;
+  &lt;input id=&#34;marker22-title&#34; value=&#34;Napa Valley 酒莊之旅&#34;&gt;
+  &lt;input id=&#34;marker22-desc&#34; value=&#34;加州和煦的陽光及乾燥的氣候，對如我這般屬陽光控 ☀️ &amp;amp;nbsp; (?) 的 engineer ，或對葡萄，都是絕佳的生長環境，也因此加州的紅酒亦頗富盛名&amp;lt;br /&amp;gt; &amp;lt;br /&amp;gt;Napa 路上，兩旁種植了整片整片的橄欖和葡萄，在陽光的照耀之下，如同翡翠般閃耀光芒。開進酒莊的大門，大道兩旁栽植了修剪整齊的筆直松樹，甚是氣派&#34;&gt;
+  &lt;input id=&#34;marker22-date&#34; value=&#34;August 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker22-img&#34; value=&#34;/portfolio/media/thumbnail/world/Napa_valley_hu7826858cce7e828cb5e2bce87a0c1547_150700_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker23-lat&#34; value=&#34;37.7786&#34;&gt;
+  &lt;input id=&#34;marker23-lng&#34; value=&#34;-122.3903&#34;&gt;
+  &lt;input id=&#34;marker23-title&#34; value=&#34;First MLB&#34;&gt;
+  &lt;input id=&#34;marker23-desc&#34; value=&#34;📍 Oracle Park &amp;lt;br/&amp;gt; 人生第一場 MLB，巨人 vs 紅雀 &amp;lt;br /&amp;gt; &amp;lt;br /&amp;gt; 完成了一個小小夢想，一個在某個人生階段裡，會覺得如果可以這樣就好幸福好幸福的夢想&#34;&gt;
+  &lt;input id=&#34;marker23-date&#34; value=&#34;July 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker23-img&#34; value=&#34;/portfolio/media/thumbnail/world/SF_Giant_hu9ca4f01d10c1ad5dafd31512e8b5029d_205080_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker24-lat&#34; value=&#34;37.3317&#34;&gt;
+  &lt;input id=&#34;marker24-lng&#34; value=&#34;-122.0083&#34;&gt;
+  &lt;input id=&#34;marker24-title&#34; value=&#34;Summer in Apple Park&#34;&gt;
+  &lt;input id=&#34;marker24-desc&#34; value=&#34;在 Apple 度過了一整個夏日時光 &amp;lt;br /&amp;gt; 適逢整個 team 遷進新總部，還沒有太多員工攜家帶眷吃飯玩耍的紛擾。沒有練球的日子，就熬到 7 點等著吃免錢的晚餐 (但我在那之前 5 點就下班去重訓或繞著飛碟跑步騎腳踏車 😆&amp;amp;nbsp; ) &amp;lt;br /&amp;gt;人生中能有這樣的實習經驗真的很特別，感謝專題好夥伴 Wei 的帶飛 😊&#34;&gt;
+  &lt;input id=&#34;marker24-date&#34; value=&#34;June 2018 - September 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker24-img&#34; value=&#34;/portfolio/media/thumbnail/world/Apple_park_hu8bed15cf6964f59291cda5fa56d8382e_608344_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker25-lat&#34; value=&#34;37.3343&#34;&gt;
+  &lt;input id=&#34;marker25-lng&#34; value=&#34;-122.0089&#34;&gt;
+  &lt;input id=&#34;marker25-title&#34; value=&#34;Super food&#34;&gt;
+  &lt;input id=&#34;marker25-desc&#34; value=&#34;IMHO, 灣區最棒的員工餐廳！&amp;lt;br /&amp;gt;海放 Google 和 FB 的營養午餐😎  &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt; PS 我喜歡藜麥&#34;&gt;
+  &lt;input id=&#34;marker25-date&#34; value=&#34;September 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker25-img&#34; value=&#34;/portfolio/media/thumbnail/world/Apple_food_hu74bdda58dc6324c559c921a237d31515_480935_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker26-lat&#34; value=&#34;37.3308&#34;&gt;
+  &lt;input id=&#34;marker26-lng&#34; value=&#34;-121.8938&#34;&gt;
+  &lt;input id=&#34;marker26-title&#34; value=&#34;Adobe 總部&#34;&gt;
+  &lt;input id=&#34;marker26-desc&#34; value=&#34;朝聖網美(用的工具)的發跡地&#34;&gt;
+  &lt;input id=&#34;marker26-date&#34; value=&#34;July 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker26-img&#34; value=&#34;/portfolio/media/thumbnail/world/Adobe_hu0ac4d2fa797fbe371c77c0e1f8594ea0_221789_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker27-lat&#34; value=&#34;37.8188&#34;&gt;
+  &lt;input id=&#34;marker27-lng&#34; value=&#34;-122.4743&#34;&gt;
+  &lt;input id=&#34;marker27-title&#34; value=&#34;B02 EE 小聚&#34;&gt;
+  &lt;input id=&#34;marker27-desc&#34; value=&#34;最後騎車騎到筋疲力盡，好險還有船可以搭回去 🤣 &#34;&gt;
+  &lt;input id=&#34;marker27-date&#34; value=&#34;August 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker27-img&#34; value=&#34;/portfolio/media/thumbnail/world/SF_EE_meet_hu48fe1bc724605b0630a76beca55a3e85_1063137_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker28-lat&#34; value=&#34;41.0119&#34;&gt;
+  &lt;input id=&#34;marker28-lng&#34; value=&#34;-121.6520&#34;&gt;
+  &lt;input id=&#34;marker28-title&#34; value=&#34;Labor Day Weekend&#34;&gt;
+  &lt;input id=&#34;marker28-desc&#34; value=&#34;因為會打桌球這件事，遇到了很多很棒的人們呢 🥳 &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;感謝達達和 Danny 帶我出遊陪我練球 😊&#34;&gt;
+  &lt;input id=&#34;marker28-date&#34; value=&#34;September 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker28-img&#34; value=&#34;/portfolio/media/thumbnail/world/Burney_Falls_hu163a513b88c20b3e6b3f885103a81b94_1678263_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker29-lat&#34; value=&#34;37.8086&#34;&gt;
+  &lt;input id=&#34;marker29-lng&#34; value=&#34;-122.4098&#34;&gt;
+  &lt;input id=&#34;marker29-title&#34; value=&#34;SF downtown&#34;&gt;
+  &lt;input id=&#34;marker29-desc&#34; value=&#34;看完了球賽，晚餐吃了 Hogland Island 的生蠔(加一大鍋淡菜薯條)&amp;lt;br /&amp;gt;在 Pier 39 看夕陽，坐了兩小時的 Cal Train 回到 San Jose，明天又將迎向新的挑戰&#34;&gt;
+  &lt;input id=&#34;marker29-date&#34; value=&#34;July 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker29-img&#34; value=&#34;/portfolio/media/thumbnail/world/Pier39_hu96f158c6a4b064dc1805f3821109b3f1_687573_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
 &lt;/div&gt;
 &lt;div id=&#34;map&#34; style=&#34;height: 600px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;num_markers&#34;&gt;目前有 21 則故事，未完待續 &lt;/div&gt;
+&lt;div id=&#34;num_markers&#34;&gt;目前有 30 則故事，未完待續 &lt;/div&gt;
 </description>
     </item>
     
