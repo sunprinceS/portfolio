@@ -27,7 +27,7 @@
   &lt;input id=&#34;map-zoom&#34; value=&#34;5&#34;&gt;
   &lt;input id=&#34;map-init-lat&#34; value=&#34;59.2915&#34;&gt;
   &lt;input id=&#34;map-init-lng&#34; value=&#34;17.9249&#34;&gt;
-  &lt;input id=&#34;map-num-markers&#34; value=&#34;30&#34;&gt;
+  &lt;input id=&#34;map-num-markers&#34; value=&#34;41&#34;&gt;
 
   
   &lt;input id=&#34;marker0-lat&#34; value=&#34;60.8611&#34;&gt;
@@ -330,9 +330,119 @@
   
   &lt;input id=&#34;marker29-img&#34; value=&#34;/portfolio/media/thumbnail/world/Pier39_hu96f158c6a4b064dc1805f3821109b3f1_687573_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
+  &lt;input id=&#34;marker30-lat&#34; value=&#34;56.7969&#34;&gt;
+  &lt;input id=&#34;marker30-lng&#34; value=&#34;-5.0035&#34;&gt;
+  &lt;input id=&#34;marker30-title&#34; value=&#34;守護&#34;&gt;
+  &lt;input id=&#34;marker30-desc&#34; value=&#34;📍 Ben Nevis &amp;lt;br /&amp;gt;二戰傘兵將士紀念碑&#34;&gt;
+  &lt;input id=&#34;marker30-date&#34; value=&#34;May 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker30-img&#34; value=&#34;/portfolio/media/thumbnail/world/Ben_Nevis_huc4aaa229f9dedc9857902a2a3f751fc7_50319_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker31-lat&#34; value=&#34;32.7604&#34;&gt;
+  &lt;input id=&#34;marker31-lng&#34; value=&#34;-117.1839&#34;&gt;
+  &lt;input id=&#34;marker31-title&#34; value=&#34;SLT 2016&#34;&gt;
+  &lt;input id=&#34;marker31-desc&#34; value=&#34;第一次在國際會議上發表論文 🎉&#34;&gt;
+  &lt;input id=&#34;marker31-date&#34; value=&#34;December 2016&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker31-img&#34; value=&#34;/portfolio/media/thumbnail/world/SLT_hu2d491a242758c7899a9ef131d2117993_326611_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker32-lat&#34; value=&#34;52.5019&#34;&gt;
+  &lt;input id=&#34;marker32-lng&#34; value=&#34;13.3962&#34;&gt;
+  &lt;input id=&#34;marker32-title&#34; value=&#34;Fallen Leaves&#34;&gt;
+  &lt;input id=&#34;marker32-desc&#34; value=&#34;📍 Jüdisches Museum &amp;lt;br /&amp;gt;讓人感到壓抑的裝置藝術，聯想到被煉成賢者之石靈魂的無聲嘶吼 &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;館中的流亡之牆紀錄了當時被納粹迫害流亡的猶太人去處，集中營的地名也在其中&#34;&gt;
+  &lt;input id=&#34;marker32-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker32-img&#34; value=&#34;/portfolio/media/thumbnail/world/Jewish_museum_hu5f797eb81e40b31944b23ba0513e47d4_100319_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker33-lat&#34; value=&#34;52.5145&#34;&gt;
+  &lt;input id=&#34;marker33-lng&#34; value=&#34;13.4873&#34;&gt;
+  &lt;input id=&#34;marker33-title&#34; value=&#34;Stasi Museum&#34;&gt;
+  &lt;input id=&#34;marker33-desc&#34; value=&#34;Schild ⚔️  &amp;amp;nbsp; und Schwert 🛡 &amp;amp;nbsp der Partei &amp;lt;br /&amp;gt;紀錄了當時東德秘密警察對人民無孔不入的監視以及細思極恐的心理騷擾。像是用拷貝的鑰匙進到受害者房間裡面，細微地改變擺設、相機在屋內各處的監控...&amp;lt;br/&amp;gt;他們也有研發單位，開發各種監聽及監視的科技&#34;&gt;
+  &lt;input id=&#34;marker33-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker33-img&#34; value=&#34;/portfolio/media/thumbnail/world/Stasi_hu8d9c0f074cf2676866b991c5bc6cbb50_1397604_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker34-lat&#34; value=&#34;50.0389&#34;&gt;
+  &lt;input id=&#34;marker34-lng&#34; value=&#34;19.1713&#34;&gt;
+  &lt;input id=&#34;marker34-title&#34; value=&#34;滅絕 ❌ 煉獄&#34;&gt;
+  &lt;input id=&#34;marker34-desc&#34; value=&#34;有別於爾摩 11 月的初雪，銀白大地帶給南國孩子的新鮮感；這裡的雪映著灰矇的天空，世界彷彿給添上了一層黑白濾鏡，慘白，屬於人間的色彩在此顯得格格不入，若 70 幾年前的凜冬，和無數生靈在此所受的苦痛&#34;&gt;
+  &lt;input id=&#34;marker34-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker34-img&#34; value=&#34;/portfolio/media/thumbnail/world/Auschwitz_hu6449d95ff1698fa5a5a871893e83a3fb_157352_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker35-lat&#34; value=&#34;64.3145&#34;&gt;
+  &lt;input id=&#34;marker35-lng&#34; value=&#34;-20.1496&#34;&gt;
+  &lt;input id=&#34;marker35-title&#34; value=&#34;Gullfoss&#34;&gt;
+  &lt;input id=&#34;marker35-desc&#34; value=&#34;此生見過最浮誇的瀑布，暫時沒有之一 (2018)&#34;&gt;
+  &lt;input id=&#34;marker35-date&#34; value=&#34;April 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker35-img&#34; value=&#34;/portfolio/media/thumbnail/world/Gullfoss_hu6d7f65b09d9185502e041e86f663f536_181795_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker36-lat&#34; value=&#34;49.9824&#34;&gt;
+  &lt;input id=&#34;marker36-lng&#34; value=&#34;20.0602&#34;&gt;
+  &lt;input id=&#34;marker36-title&#34; value=&#34;Wieliczka Salt Mine&#34;&gt;
+  &lt;input id=&#34;marker36-desc&#34; value=&#34;岩牆上大片大片的鹽結晶，仿若外星球上某種不知名伏地繁衍的菌類生物如孢子般，而頂層則掛著細小卻鋒利的「鹽」錐 &amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;當時只靠著人力獸力在地底開拓了這麼一個居所，走下階梯，兩旁鹽刻的仿作，最後的晚餐…等，祭壇上晶瑩剔透的聖像、耶穌受難像，在暗不見天日的地底，給了工人們信仰的力量，也正是為這樣的虔誠所驅使，造就了禮拜堂之雄偉壯觀與富麗堂皇。&#34;&gt;
+  &lt;input id=&#34;marker36-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker36-img&#34; value=&#34;/portfolio/media/thumbnail/world/Wieliczka_hu79e102c6ae637b2326265dc7659b8c1e_225824_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker37-lat&#34; value=&#34;63.4044&#34;&gt;
+  &lt;input id=&#34;marker37-lng&#34; value=&#34;-19.0583&#34;&gt;
+  &lt;input id=&#34;marker37-title&#34; value=&#34;Reynisfjara 黑沙灘&#34;&gt;
+  &lt;input id=&#34;marker37-desc&#34; value=&#34;📍 Vik&#34;&gt;
+  &lt;input id=&#34;marker37-date&#34; value=&#34;April 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker37-img&#34; value=&#34;/portfolio/media/thumbnail/world/Vik_hu049439ae5f0d7973a1c7d81107aa3cdc_114381_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker38-lat&#34; value=&#34;51.8887&#34;&gt;
+  &lt;input id=&#34;marker38-lng&#34; value=&#34;4.6357&#34;&gt;
+  &lt;input id=&#34;marker38-title&#34; value=&#34;小孩堤防&#34;&gt;
+  &lt;input id=&#34;marker38-desc&#34; value=&#34;Kinderdijk&amp;lt;br /&amp;gt;來到荷蘭後看到很多 ijk 結尾的字，不禁讓人想到有名的最短路徑演算法，然後他果然是荷蘭人😆&#34;&gt;
+  &lt;input id=&#34;marker38-date&#34; value=&#34;April 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker38-img&#34; value=&#34;/portfolio/media/thumbnail/world/Kinderdijk_hue778499620c08c0b8038b8dc1be2d8ae_107275_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker39-lat&#34; value=&#34;57.5070&#34;&gt;
+  &lt;input id=&#34;marker39-lng&#34; value=&#34;-6.1746&#34;&gt;
+  &lt;input id=&#34;marker39-title&#34; value=&#34;The Old Man of Storr&#34;&gt;
+  &lt;input id=&#34;marker39-desc&#34; value=&#34;📍 高地&#34;&gt;
+  &lt;input id=&#34;marker39-date&#34; value=&#34;May 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker39-img&#34; value=&#34;/portfolio/media/thumbnail/world/Old_man_stone_hufe343f2685d81ac56d3dfdc8100ce1ae_194821_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker40-lat&#34; value=&#34;55.9440&#34;&gt;
+  &lt;input id=&#34;marker40-lng&#34; value=&#34;-3.1618&#34;&gt;
+  &lt;input id=&#34;marker40-title&#34; value=&#34;亞瑟王座&#34;&gt;
+  &lt;input id=&#34;marker40-desc&#34; value=&#34;初到 Edinburgh 的第一天，把握很晚下山的太陽，到市區外的 Holyrood Park 散步，還有人在王座的岩壁上抱石&#34;&gt;
+  &lt;input id=&#34;marker40-date&#34; value=&#34;May 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker40-img&#34; value=&#34;/portfolio/media/thumbnail/world/Arthur_seat_hubfb7ecdac48fe01905b382e759c853cd_158029_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
 &lt;/div&gt;
 &lt;div id=&#34;map&#34; style=&#34;height: 600px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;num_markers&#34;&gt;目前有 30 則故事，未完待續 &lt;/div&gt;
+&lt;div id=&#34;num_markers&#34;&gt;目前有 41 則故事，未完待續 &lt;/div&gt;
 </description>
     </item>
     
