@@ -858,7 +858,7 @@
   &lt;input id=&#34;map-zoom&#34; value=&#34;5&#34;&gt;
   &lt;input id=&#34;map-init-lat&#34; value=&#34;59.2915&#34;&gt;
   &lt;input id=&#34;map-init-lng&#34; value=&#34;17.9249&#34;&gt;
-  &lt;input id=&#34;map-num-markers&#34; value=&#34;41&#34;&gt;
+  &lt;input id=&#34;map-num-markers&#34; value=&#34;58&#34;&gt;
 
   
   &lt;input id=&#34;marker0-lat&#34; value=&#34;60.8611&#34;&gt;
@@ -1164,7 +1164,7 @@
   &lt;input id=&#34;marker30-lat&#34; value=&#34;56.7969&#34;&gt;
   &lt;input id=&#34;marker30-lng&#34; value=&#34;-5.0035&#34;&gt;
   &lt;input id=&#34;marker30-title&#34; value=&#34;守護&#34;&gt;
-  &lt;input id=&#34;marker30-desc&#34; value=&#34;📍 Ben Nevis &amp;lt;br /&amp;gt;二戰傘兵將士紀念碑&#34;&gt;
+  &lt;input id=&#34;marker30-desc&#34; value=&#34;&#34;&gt;
   &lt;input id=&#34;marker30-date&#34; value=&#34;May 2018&#34;&gt;
   
   
@@ -1234,7 +1234,7 @@
   &lt;input id=&#34;marker37-lat&#34; value=&#34;63.4044&#34;&gt;
   &lt;input id=&#34;marker37-lng&#34; value=&#34;-19.0583&#34;&gt;
   &lt;input id=&#34;marker37-title&#34; value=&#34;Reynisfjara 黑沙灘&#34;&gt;
-  &lt;input id=&#34;marker37-desc&#34; value=&#34;📍 Vik&#34;&gt;
+  &lt;input id=&#34;marker37-desc&#34; value=&#34;📍 Vik &amp;lt;br /&amp;gt;冰島真的是目前心中最想帶爸媽來的地方，沒有&#34;&gt;
   &lt;input id=&#34;marker37-date&#34; value=&#34;April 2018&#34;&gt;
   
   
@@ -1271,9 +1271,179 @@
   
   &lt;input id=&#34;marker40-img&#34; value=&#34;/portfolio/media/thumbnail/world/Arthur_seat_hubfb7ecdac48fe01905b382e759c853cd_158029_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
+  &lt;input id=&#34;marker41-lat&#34; value=&#34;59.2972&#34;&gt;
+  &lt;input id=&#34;marker41-lng&#34; value=&#34;17.9108&#34;&gt;
+  &lt;input id=&#34;marker41-title&#34; value=&#34;初融&#34;&gt;
+  &lt;input id=&#34;marker41-desc&#34; value=&#34;冰封了一整個冬天的湖面，隨著春天的到來而融解，再一個月後這些冬天的影子便會消失的無影無蹤了吧&#34;&gt;
+  &lt;input id=&#34;marker41-date&#34; value=&#34;March 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker41-img&#34; value=&#34;/portfolio/media/thumbnail/world/Stockholm_lake_huca499a5198b4707a240867ef9ddf9777_805195_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker42-lat&#34; value=&#34;55.9533&#34;&gt;
+  &lt;input id=&#34;marker42-lng&#34; value=&#34;-3.1884&#34;&gt;
+  &lt;input id=&#34;marker42-title&#34; value=&#34;Edinburgh 一隅&#34;&gt;
+  &lt;input id=&#34;marker42-desc&#34; value=&#34;以前沒有污水處理系統，屎尿都是直接往外倒，也因此越靠近低地的地方越髒越臭，也是貧苦人家居住的地方&#34;&gt;
+  &lt;input id=&#34;marker42-date&#34; value=&#34;May 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker42-img&#34; value=&#34;/portfolio/media/thumbnail/world/Edinburgh_hu6d7bf4746ac7a5b6dc482fc99570a19a_1425383_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker43-lat&#34; value=&#34;36.2231&#34;&gt;
+  &lt;input id=&#34;marker43-lng&#34; value=&#34;-121.3877&#34;&gt;
+  &lt;input id=&#34;marker43-title&#34; value=&#34;🇺🇸 國慶小旅行&#34;&gt;
+  &lt;input id=&#34;marker43-desc&#34; value=&#34;📍Monterey 水族館&amp;lt;br /&amp;gt;像螢幕保護程式的水族館水母展箱，在海上 Kayak 的人們，大海的氣味。來這裡什麼功課也沒做，就只是跳脫日復一日工作的地方，放空，然後放鬆，簡單生活&#34;&gt;
+  &lt;input id=&#34;marker43-date&#34; value=&#34;July 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker43-img&#34; value=&#34;/portfolio/media/thumbnail/world/Monterey_hu4f57bb4072b7d9f05b0c40760d49a2db_765986_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker44-lat&#34; value=&#34;52.2699&#34;&gt;
+  &lt;input id=&#34;marker44-lng&#34; value=&#34;4.5473&#34;&gt;
+  &lt;input id=&#34;marker44-title&#34; value=&#34;自行車漫&amp;lt;small&amp;gt;(ㄙㄢ)&amp;lt;/small&amp;gt;遊&amp;lt;small&amp;gt;(ㄊㄧㄝˇ)&amp;lt;/small&amp;gt;之旅&#34;&gt;
+  &lt;input id=&#34;marker44-desc&#34; value=&#34;📍Keukenhof &amp;lt;br /&amp;gt;使已是春暖花開的 4 月，今年的花卻是遲了，氣候變遷的影響於在此感受深刻(?)&amp;lt;br /&amp;gt;眼見時間尚早，心想不如就繼續往南吧！路途中沁涼的空氣及湛藍的天空，仍讓去程十分舒適，但回程遭遇不斷吹拂的強烈北風，還真是騎得一把鼻涕一把眼淚 😂&#34;&gt;
+  &lt;input id=&#34;marker44-date&#34; value=&#34;April 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker44-img&#34; value=&#34;/portfolio/media/thumbnail/world/Keukenhof_hu8f0a8cd2c15a97baab4a5a1aab1b3a7c_1759500_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker45-lat&#34; value=&#34;47.4980&#34;&gt;
+  &lt;input id=&#34;marker45-lng&#34; value=&#34;19.0404&#34;&gt;
+  &lt;input id=&#34;marker45-title&#34; value=&#34;City of Lights ✨&#34;&gt;
+  &lt;input id=&#34;marker45-desc&#34; value=&#34;📍 Budapest&amp;lt;br/&amp;gt;開燈不用錢的地方&#34;&gt;
+  &lt;input id=&#34;marker45-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker45-img&#34; value=&#34;/portfolio/media/thumbnail/world/Budapest_hu68495d3e58009171bf970f3e6b8ef6ef_195251_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker46-lat&#34; value=&#34;50.0814&#34;&gt;
+  &lt;input id=&#34;marker46-lng&#34; value=&#34;14.4128&#34;&gt;
+  &lt;input id=&#34;marker46-title&#34; value=&#34;Christmas in Prague&#34;&gt;
+  &lt;input id=&#34;marker46-desc&#34; value=&#34;📍 Most Legií&amp;lt;br /&amp;gt; 機場竟然有韓文標示沒有中文😳&#34;&gt;
+  &lt;input id=&#34;marker46-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker46-img&#34; value=&#34;/portfolio/media/thumbnail/world/Prague_hub959b64e3f2bf2279368ef79f115f558_129389_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker47-lat&#34; value=&#34;47.5023&#34;&gt;
+  &lt;input id=&#34;marker47-lng&#34; value=&#34;19.034&#34;&gt;
+  &lt;input id=&#34;marker47-title&#34; value=&#34;漁人堡&#34;&gt;
+  &lt;input id=&#34;marker47-desc&#34; value=&#34;在中央市場被狠狠薛一頓後，來散散心 (真的是部落格的文章不要全部相信)&#34;&gt;
+  &lt;input id=&#34;marker47-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker47-img&#34; value=&#34;/portfolio/media/thumbnail/world/Fishman_Bastion_hu1f2527dab48cea65cd60a92c3dd5f36a_144708_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker48-lat&#34; value=&#34;52.5170&#34;&gt;
+  &lt;input id=&#34;marker48-lng&#34; value=&#34;13.3889&#34;&gt;
+  &lt;input id=&#34;marker48-title&#34; value=&#34;柏林印象&#34;&gt;
+  &lt;input id=&#34;marker48-desc&#34; value=&#34;充滿現代感的都市、二戰相關博物館留下的痕跡，和富有特色的 Underground tour (這個真的超推)&#34;&gt;
+  &lt;input id=&#34;marker48-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker48-img&#34; value=&#34;/portfolio/media/thumbnail/world/Berlin_hub1635f392b7959613b2e550ff503124e_275995_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker49-lat&#34; value=&#34;48.8051&#34;&gt;
+  &lt;input id=&#34;marker49-lng&#34; value=&#34;14.3162&#34;&gt;
+  &lt;input id=&#34;marker49-title&#34; value=&#34;Český Krumlov&#34;&gt;
+  &lt;input id=&#34;marker49-desc&#34; value=&#34;牆壁浮雕似的版畫、以及石板路、色彩繽紛的矮房子，童話般的小鎮&#34;&gt;
+  &lt;input id=&#34;marker49-date&#34; value=&#34;Decmeber 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker49-img&#34; value=&#34;/portfolio/media/thumbnail/world/CK_hufd293fb951c811a8e564e19307d3a8ab_223237_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker50-lat&#34; value=&#34;53.3498&#34;&gt;
+  &lt;input id=&#34;marker50-lng&#34; value=&#34;-6.2603&#34;&gt;
+  &lt;input id=&#34;marker50-title&#34; value=&#34;都柏林印象&#34;&gt;
+  &lt;input id=&#34;marker50-desc&#34; value=&#34;交換時歐遊的最後一站 (雖然那時候還以為會有克羅埃西亞🥲 &amp;amp;nbsp;) &amp;lt;br/&amp;gt; 在高地旅行時被壯壯提醒要小心小屁孩，後來晚上都不敢出去亂晃，好險後來沒有發生什麼不愉快&#34;&gt;
+  &lt;input id=&#34;marker50-date&#34; value=&#34;May 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker50-img&#34; value=&#34;/portfolio/media/thumbnail/world/Dublin_hu41664eca57d556e1037503aa08b70ce0_879840_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker51-lat&#34; value=&#34;59.3207&#34;&gt;
+  &lt;input id=&#34;marker51-lng&#34; value=&#34;18.0602&#34;&gt;
+  &lt;input id=&#34;marker51-title&#34; value=&#34;Last day in Stockholm&#34;&gt;
+  &lt;input id=&#34;marker51-desc&#34; value=&#34;跟 Ted 吃完晚餐後，再看一眼 9 點的日落，明天就要暫時跟爾摩道別了&#34;&gt;
+  &lt;input id=&#34;marker51-date&#34; value=&#34;May 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker51-img&#34; value=&#34;/portfolio/media/thumbnail/world/Stockholm_sunset_hu3befff878c85110bc9a0d270e6342739_475809_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker52-lat&#34; value=&#34;31.1180&#34;&gt;
+  &lt;input id=&#34;marker52-lng&#34; value=&#34;120.8446&#34;&gt;
+  &lt;input id=&#34;marker52-title&#34; value=&#34;江南 - 江楓漁火對愁眠&#34;&gt;
+  &lt;input id=&#34;marker52-desc&#34; value=&#34;&#34;&gt;
+  &lt;input id=&#34;marker52-date&#34; value=&#34;July 2015&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker52-img&#34; value=&#34;/portfolio/media/thumbnail/world/Suzhou_hu8f82676efc6e1dbda4bbb3d456a924e2_408448_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker53-lat&#34; value=&#34;35.2987&#34;&gt;
+  &lt;input id=&#34;marker53-lng&#34; value=&#34;139.4744&#34;&gt;
+  &lt;input id=&#34;marker53-title&#34; value=&#34;江の島&#34;&gt;
+  &lt;input id=&#34;marker53-desc&#34; value=&#34;🌊&#34;&gt;
+  &lt;input id=&#34;marker53-date&#34; value=&#34;September 2016&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker53-img&#34; value=&#34;/portfolio/media/thumbnail/world/Enoshima_hu001b07ba5fa3a90d30716aa5762b95b6_1689146_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker54-lat&#34; value=&#34;34.3841&#34;&gt;
+  &lt;input id=&#34;marker54-lng&#34; value=&#34;109.2785&#34;&gt;
+  &lt;input id=&#34;marker54-title&#34; value=&#34;亡靈衛隊 💀 - 兵馬俑&#34;&gt;
+  &lt;input id=&#34;marker54-desc&#34; value=&#34;&#34;&gt;
+  &lt;input id=&#34;marker54-date&#34; value=&#34;August 2015&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker54-img&#34; value=&#34;/portfolio/media/thumbnail/world/Xian_hu38bff1dd008aa86211aca2bc241e8f80_415475_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker55-lat&#34; value=&#34;40.2897&#34;&gt;
+  &lt;input id=&#34;marker55-lng&#34; value=&#34;116.0638&#34;&gt;
+  &lt;input id=&#34;marker55-title&#34; value=&#34;天下第一雄關 - 居庸關&#34;&gt;
+  &lt;input id=&#34;marker55-desc&#34; value=&#34;&#34;&gt;
+  &lt;input id=&#34;marker55-date&#34; value=&#34;July 2016&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker55-img&#34; value=&#34;/portfolio/media/thumbnail/world/Great_Wall_hu4d84c38997d2cd926d78e7bed7d49dd4_82709_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker56-lat&#34; value=&#34;48.1423&#34;&gt;
+  &lt;input id=&#34;marker56-lng&#34; value=&#34;17.0987&#34;&gt;
+  &lt;input id=&#34;marker56-title&#34; value=&#34;天地之間 - I conquer&#34;&gt;
+  &lt;input id=&#34;marker56-desc&#34; value=&#34;📍Bratislava &amp;lt;br /&amp;gt;去維也納前在斯洛伐克停留了一天 (話說維也納的機場的價格本來就不是給窮學生直接搭過去的啊！)，經濟實惠的旅社，還有好吃的食物！&#34;&gt;
+  &lt;input id=&#34;marker56-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker56-img&#34; value=&#34;/portfolio/media/thumbnail/world/Bratislava_hu7cf671561b87cc4ec68c8ec1e3d958c9_97849_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker57-lat&#34; value=&#34;59.3248&#34;&gt;
+  &lt;input id=&#34;marker57-lng&#34; value=&#34;18.0584&#34;&gt;
+  &lt;input id=&#34;marker57-title&#34; value=&#34;Frozen Malaren&#34;&gt;
+  &lt;input id=&#34;marker57-desc&#34; value=&#34;🔓 &amp;amp;nbsp; 解鎖湖面行走&#34;&gt;
+  &lt;input id=&#34;marker57-date&#34; value=&#34;February 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker57-img&#34; value=&#34;/portfolio/media/thumbnail/world/Malaren_hu82b85bed165ed8fb9ce688ffad18a284_83004_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
 &lt;/div&gt;
 &lt;div id=&#34;map&#34; style=&#34;height: 600px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;num_markers&#34;&gt;目前有 41 則故事，未完待續 &lt;/div&gt;
+&lt;div id=&#34;num_markers&#34;&gt;目前有 58 則故事，未完待續 &lt;/div&gt;
 </description>
     </item>
     
