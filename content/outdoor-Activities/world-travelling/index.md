@@ -266,8 +266,8 @@ map:
     date: 'December 2017'
     desc: "岩牆上大片大片的鹽結晶，仿若外星球上某種不知名伏地繁衍的菌類生物如孢子般，而頂層則掛著細小卻鋒利的「鹽」錐 <br /><br />當時只靠著人力獸力在地底開拓了這麼一個居所，走下階梯，兩旁鹽刻的仿作，最後的晚餐…等，祭壇上晶瑩剔透的聖像、耶穌受難像，在暗不見天日的地底，給了工人們信仰的力量，也正是為這樣的虔誠所驅使，造就了禮拜堂之雄偉壯觀與富麗堂皇。"
   - title: "Reynisfjara 黑沙灘"
-    lat: '63.4044'
-    lng: '-19.0583'
+    lat: '63.4027'
+    lng: '-19.1051'
     img: 'Vik.jpg'
     date: 'April 2018'
     desc: "📍 Vik <br />冰島真的是目前心中最想帶爸媽來的地方，沒有之一"
@@ -276,7 +276,7 @@ map:
     lng: '4.6357'
     img: 'Kinderdijk.jpg' 
     date: 'April 2018'
-    desc: "Kinderdijk<br />來到荷蘭後看到很多 ijk 結尾的字，不禁讓人想到有名的最短路徑演算法，然後他果然是荷蘭人😆"
+    desc: "<i>Kinderdijk</i><br />來到荷蘭後看到很多 ijk 結尾的字，不禁讓人想到有名的最短路徑演算法，然後他果然是荷蘭人😆"
   - title: "The Old Man of Storr"
     lat: '57.5070'
     lng: '-6.1746'
@@ -307,12 +307,12 @@ map:
     img: 'Monterey.jpg'
     date: 'July 2018'
     desc: "📍Monterey 水族館<br />像螢幕保護程式的水族館水母展箱，在海上 Kayak 的人們，大海的氣味。來這裡什麼功課也沒做，就只是跳脫日復一日工作的地方，放空，然後放鬆，簡單生活"
-  - title: "自行車漫<small>(ㄙㄢ)</small>遊<small>(ㄊㄧㄝˇ)</small>之旅"
+  - title: "單車漫<small>(ㄊㄧㄝˇ)</small>遊<small>(ㄖㄣˊ)</small>之旅 🚴"
     lat: '52.2699'
     lng: '4.5473'
     img: 'Keukenhof.jpg'
     date: 'April 2018'
-    desc: "📍Keukenhof <br />使已是春暖花開的 4 月，今年的花卻是遲了，氣候變遷的影響於在此感受深刻(?)<br />眼見時間尚早，心想不如就繼續往南吧！路途中沁涼的空氣及湛藍的天空，仍讓去程十分舒適，但回程遭遇不斷吹拂的強烈北風，還真是騎得一把鼻涕一把眼淚 😂"
+    desc: "📍 Keukenhof <br />使已是春暖花開的 4 月，今年的花卻是遲了，氣候變遷的影響於在此感受深刻(?)<br />眼見時間尚早，心想不如就繼續往南吧！路途中沁涼的空氣及湛藍的天空，仍讓去程十分舒適，但回程遭遇不斷吹拂的強烈北風，還真是騎得一把鼻涕一把眼淚 😂"
   - title: "City of Lights ✨"
     lat: '47.4980'
     lng: '19.0404'
@@ -531,6 +531,59 @@ map:
     img: 'KTH.JPG'
     date: 'August 2017 - May 2018'
     desc: "交換學生的終與始<br />牆上的藤蔓從綠轉紅，再到凋零，等到冒出新芽再轉為茂盛之時，又是一年的寒暑"
+  - title: "啟程 - 芬蘭堡"
+    lat: '60.1669'
+    lng: '24.9548'
+    img: 'Suomenlinna.jpeg'
+    date: 'September 2017'
+    desc: "一早就在街道上狂奔，幸運地趕上了最早班的船，享受沒有遊人喧囂的時光"
+  - title: "🌈 彩虹島 - Burano"
+    lat: '45.4854'
+    lng: '12.4166'
+    img: 'Burano.JPG'
+    date: 'October 2017'
+    desc: "為了維護彩虹之名，多久要油漆一次呢 🤔"
+  - title: "赫爾辛基印象"
+    lat: '60.1683'
+    lng: '24.9582'
+    img: 'Helsinki.jpeg'
+    date: 'September 2017'
+    desc: "見識到了手機直接掃 boarding pass 有多方便，申根國間的旅遊就像在搭捷運一樣<br /> <br />Helsinki 給我的感覺比哥本哈根好多了 (新港的氣味真是不敢恭維)，而且可以用歐元更省去了換匯的麻煩，還有港口旁好喝的魚湯 🍲 &nbsp; (私心覺得勝過爾摩的)"
+  - title: "Santa Monica"
+    lat: '34.0195'
+    lng: '-118.4912'
+    img: 'SantaMonica.JPG'
+    date: 'December 2016'
+    desc: "🏖️ <br /> 謝謝學姊出借的太陽眼鏡 (加州的陽光實在刺得人眼睛睜不開)，然而最後忘了還，變成紀念品了 😂"
+  - title: "聖蹟桜ヶ丘 - 心之谷"
+    lat: '35.6509'
+    lng: '139.4470'
+    img: 'Whisper_of_the_heart.JPG'
+    date: 'September 2016'
+    desc: "畢旅時強迫(?)大家跟我一起朝聖看了不下 10 次的心之谷的取景之地"
+  - title: "藝術史博物館"
+    lat: '48.2037'
+    lng: '16.3618'
+    img: 'Austria.jpeg'
+    date: 'December 2017'
+    desc: "📍 Vienna <br />昨晚因為沒有正式的褲子無緣歌劇，但今早的博物館撫慰了我的心～ 不似羅浮宮或奧塞，這座博物館一開始就是作為美術館的用途使用，在不同場館的入口處，都有精心設計過，與建築物一體成形，卻又切和主題 (古埃及展區讓人為之驚艷)"
+  - title: "北歐凡爾賽 - 腓特烈堡"
+    lat: '55.9351'
+    lng: '12.3017'
+    img: 'Frederiksborg_slot.JPG'
+    date: 'September 2017'
+    desc: "初入腓特烈堡，便被裡頭的富麗堂皇給震懾(甚至後來凡爾賽宮本人帶給我的震撼都沒有那麼大)，不若 Gamla Stan 的低調典雅，這裡的各種雕梁畫棟更為張狂豪奢<br /><br /> 在瑞典歷史博物館裡，詳細描述了與丹麥幾世紀以來的衝突，尤其 16 世紀發生於大廣場的慘案；但在這裡，所有的歷史視角全部調換，17 世紀哥本哈根被瑞典人攻陷也少不了割地賠款"
+  - title: "Titan from Underworld"
+    lat: '63.4027'
+    lng: '-19.0418'
+    img: 'Titan_Vik.JPG'
+    date: 'April 2018'
+  - title: "銀河 落凡間"
+    lat: '63.5319'
+    lng: '-19.5106'
+    img: 'Skogafoss.JPG'
+    date: 'April 2018'
+    desc: "📍 Skógafoss Waterfall"
 
 ---
 
