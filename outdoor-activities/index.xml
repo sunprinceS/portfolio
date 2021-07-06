@@ -838,7 +838,7 @@
   &lt;input id=&#34;map-zoom&#34; value=&#34;5&#34;&gt;
   &lt;input id=&#34;map-init-lat&#34; value=&#34;59.2915&#34;&gt;
   &lt;input id=&#34;map-init-lng&#34; value=&#34;17.9249&#34;&gt;
-  &lt;input id=&#34;map-num-markers&#34; value=&#34;82&#34;&gt;
+  &lt;input id=&#34;map-num-markers&#34; value=&#34;91&#34;&gt;
 
   
   &lt;input id=&#34;marker0-lat&#34; value=&#34;60.8611&#34;&gt;
@@ -1211,8 +1211,8 @@
   
   &lt;input id=&#34;marker36-img&#34; value=&#34;/portfolio/media/thumbnail/world/Wieliczka_hu79e102c6ae637b2326265dc7659b8c1e_225824_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
-  &lt;input id=&#34;marker37-lat&#34; value=&#34;63.4044&#34;&gt;
-  &lt;input id=&#34;marker37-lng&#34; value=&#34;-19.0583&#34;&gt;
+  &lt;input id=&#34;marker37-lat&#34; value=&#34;63.4027&#34;&gt;
+  &lt;input id=&#34;marker37-lng&#34; value=&#34;-19.1051&#34;&gt;
   &lt;input id=&#34;marker37-title&#34; value=&#34;Reynisfjara 黑沙灘&#34;&gt;
   &lt;input id=&#34;marker37-desc&#34; value=&#34;📍 Vik &amp;lt;br /&amp;gt;冰島真的是目前心中最想帶爸媽來的地方，沒有之一&#34;&gt;
   &lt;input id=&#34;marker37-date&#34; value=&#34;April 2018&#34;&gt;
@@ -1224,7 +1224,7 @@
   &lt;input id=&#34;marker38-lat&#34; value=&#34;51.8887&#34;&gt;
   &lt;input id=&#34;marker38-lng&#34; value=&#34;4.6357&#34;&gt;
   &lt;input id=&#34;marker38-title&#34; value=&#34;小孩堤防&#34;&gt;
-  &lt;input id=&#34;marker38-desc&#34; value=&#34;Kinderdijk&amp;lt;br /&amp;gt;來到荷蘭後看到很多 ijk 結尾的字，不禁讓人想到有名的最短路徑演算法，然後他果然是荷蘭人😆&#34;&gt;
+  &lt;input id=&#34;marker38-desc&#34; value=&#34;&amp;lt;i&amp;gt;Kinderdijk&amp;lt;/i&amp;gt;&amp;lt;br /&amp;gt;來到荷蘭後看到很多 ijk 結尾的字，不禁讓人想到有名的最短路徑演算法，然後他果然是荷蘭人😆&#34;&gt;
   &lt;input id=&#34;marker38-date&#34; value=&#34;April 2018&#34;&gt;
   
   
@@ -1283,8 +1283,8 @@
   
   &lt;input id=&#34;marker44-lat&#34; value=&#34;52.2699&#34;&gt;
   &lt;input id=&#34;marker44-lng&#34; value=&#34;4.5473&#34;&gt;
-  &lt;input id=&#34;marker44-title&#34; value=&#34;自行車漫&amp;lt;small&amp;gt;(ㄙㄢ)&amp;lt;/small&amp;gt;遊&amp;lt;small&amp;gt;(ㄊㄧㄝˇ)&amp;lt;/small&amp;gt;之旅&#34;&gt;
-  &lt;input id=&#34;marker44-desc&#34; value=&#34;📍Keukenhof &amp;lt;br /&amp;gt;使已是春暖花開的 4 月，今年的花卻是遲了，氣候變遷的影響於在此感受深刻(?)&amp;lt;br /&amp;gt;眼見時間尚早，心想不如就繼續往南吧！路途中沁涼的空氣及湛藍的天空，仍讓去程十分舒適，但回程遭遇不斷吹拂的強烈北風，還真是騎得一把鼻涕一把眼淚 😂&#34;&gt;
+  &lt;input id=&#34;marker44-title&#34; value=&#34;單車漫&amp;lt;small&amp;gt;(ㄊㄧㄝˇ)&amp;lt;/small&amp;gt;遊&amp;lt;small&amp;gt;(ㄖㄣˊ)&amp;lt;/small&amp;gt;之旅 🚴&#34;&gt;
+  &lt;input id=&#34;marker44-desc&#34; value=&#34;📍 Keukenhof &amp;lt;br /&amp;gt;使已是春暖花開的 4 月，今年的花卻是遲了，氣候變遷的影響於在此感受深刻(?)&amp;lt;br /&amp;gt;眼見時間尚早，心想不如就繼續往南吧！路途中沁涼的空氣及湛藍的天空，仍讓去程十分舒適，但回程遭遇不斷吹拂的強烈北風，還真是騎得一把鼻涕一把眼淚 😂&#34;&gt;
   &lt;input id=&#34;marker44-date&#34; value=&#34;April 2018&#34;&gt;
   
   
@@ -1661,9 +1661,99 @@
   
   &lt;input id=&#34;marker81-img&#34; value=&#34;/portfolio/media/thumbnail/world/KTH_hu34f21700020a4c0186a6e47c0a84495b_1192790_0x300_resize_q75_lanczos.JPG&#34;&gt;
   
+  &lt;input id=&#34;marker82-lat&#34; value=&#34;60.1669&#34;&gt;
+  &lt;input id=&#34;marker82-lng&#34; value=&#34;24.9548&#34;&gt;
+  &lt;input id=&#34;marker82-title&#34; value=&#34;啟程 - 芬蘭堡&#34;&gt;
+  &lt;input id=&#34;marker82-desc&#34; value=&#34;一早就在街道上狂奔，幸運地趕上了最早班的船，享受沒有遊人喧囂的時光&#34;&gt;
+  &lt;input id=&#34;marker82-date&#34; value=&#34;September 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker82-img&#34; value=&#34;/portfolio/media/thumbnail/world/Suomenlinna_hu57ad52662e6066e5f0cc6c4157f1a44d_102941_0x300_resize_q75_lanczos.jpeg&#34;&gt;
+  
+  &lt;input id=&#34;marker83-lat&#34; value=&#34;45.4854&#34;&gt;
+  &lt;input id=&#34;marker83-lng&#34; value=&#34;12.4166&#34;&gt;
+  &lt;input id=&#34;marker83-title&#34; value=&#34;🌈 彩虹島 - Burano&#34;&gt;
+  &lt;input id=&#34;marker83-desc&#34; value=&#34;為了維護彩虹之名，多久要油漆一次呢 🤔&#34;&gt;
+  &lt;input id=&#34;marker83-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker83-img&#34; value=&#34;/portfolio/media/thumbnail/world/Burano_hu3d5803c4b3d14f092428ca20329e98fb_130618_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker84-lat&#34; value=&#34;60.1683&#34;&gt;
+  &lt;input id=&#34;marker84-lng&#34; value=&#34;24.9582&#34;&gt;
+  &lt;input id=&#34;marker84-title&#34; value=&#34;赫爾辛基印象&#34;&gt;
+  &lt;input id=&#34;marker84-desc&#34; value=&#34;見識到了手機直接掃 boarding pass 有多方便，申根國間的旅遊就像在搭捷運一樣&amp;lt;br /&amp;gt; &amp;lt;br /&amp;gt;Helsinki 給我的感覺比哥本哈根好多了 (新港的氣味真是不敢恭維)，而且可以用歐元更省去了換匯的麻煩，還有港口旁好喝的魚湯 🍲 &amp;amp;nbsp; (私心覺得勝過爾摩的)&#34;&gt;
+  &lt;input id=&#34;marker84-date&#34; value=&#34;September 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker84-img&#34; value=&#34;/portfolio/media/thumbnail/world/Helsinki_hu1f4012b692313db7f3b28ce6bc7dea1a_147192_0x300_resize_q75_lanczos.jpeg&#34;&gt;
+  
+  &lt;input id=&#34;marker85-lat&#34; value=&#34;34.0195&#34;&gt;
+  &lt;input id=&#34;marker85-lng&#34; value=&#34;-118.4912&#34;&gt;
+  &lt;input id=&#34;marker85-title&#34; value=&#34;Santa Monica&#34;&gt;
+  &lt;input id=&#34;marker85-desc&#34; value=&#34;🏖️ &amp;lt;br /&amp;gt; 謝謝學姊出借的太陽眼鏡 (加州的陽光實在刺得人眼睛睜不開)，然而最後忘了還，變成紀念品了 😂&#34;&gt;
+  &lt;input id=&#34;marker85-date&#34; value=&#34;December 2016&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker85-img&#34; value=&#34;/portfolio/media/thumbnail/world/SantaMonica_hudb36cba8421b608386c9dfe3fbd6c9bd_437358_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker86-lat&#34; value=&#34;35.6509&#34;&gt;
+  &lt;input id=&#34;marker86-lng&#34; value=&#34;139.4470&#34;&gt;
+  &lt;input id=&#34;marker86-title&#34; value=&#34;聖蹟桜ヶ丘 - 心之谷&#34;&gt;
+  &lt;input id=&#34;marker86-desc&#34; value=&#34;畢旅時強迫(?)大家跟我一起朝聖看了不下 10 次的心之谷的取景之地&#34;&gt;
+  &lt;input id=&#34;marker86-date&#34; value=&#34;September 2016&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker86-img&#34; value=&#34;/portfolio/media/thumbnail/world/Whisper_of_the_heart_hue4a799abbe2f0bbce90ce196fd30cd50_400110_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker87-lat&#34; value=&#34;48.2037&#34;&gt;
+  &lt;input id=&#34;marker87-lng&#34; value=&#34;16.3618&#34;&gt;
+  &lt;input id=&#34;marker87-title&#34; value=&#34;藝術史博物館&#34;&gt;
+  &lt;input id=&#34;marker87-desc&#34; value=&#34;📍 Vienna &amp;lt;br /&amp;gt;昨晚因為沒有正式的褲子無緣歌劇，但今早的博物館撫慰了我的心～ 不似羅浮宮或奧塞，這座博物館一開始就是作為美術館的用途使用，在不同場館的入口處，都有精心設計過，與建築物一體成形，卻又切和主題 (古埃及展區讓人為之驚艷)&#34;&gt;
+  &lt;input id=&#34;marker87-date&#34; value=&#34;December 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker87-img&#34; value=&#34;/portfolio/media/thumbnail/world/Austria_hu55dd50b8e2b85f380323be6adb6a11b4_259886_0x300_resize_q75_lanczos.jpeg&#34;&gt;
+  
+  &lt;input id=&#34;marker88-lat&#34; value=&#34;55.9351&#34;&gt;
+  &lt;input id=&#34;marker88-lng&#34; value=&#34;12.3017&#34;&gt;
+  &lt;input id=&#34;marker88-title&#34; value=&#34;北歐凡爾賽 - 腓特烈堡&#34;&gt;
+  &lt;input id=&#34;marker88-desc&#34; value=&#34;初入腓特烈堡，便被裡頭的富麗堂皇給震懾(甚至後來凡爾賽宮本人帶給我的震撼都沒有那麼大)，不若 Gamla Stan 的低調典雅，這裡的各種雕梁畫棟更為張狂豪奢&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt; 在瑞典歷史博物館裡，詳細描述了與丹麥幾世紀以來的衝突，尤其 16 世紀發生於大廣場的慘案；但在這裡，所有的歷史視角全部調換，17 世紀哥本哈根被瑞典人攻陷也少不了割地賠款&#34;&gt;
+  &lt;input id=&#34;marker88-date&#34; value=&#34;September 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker88-img&#34; value=&#34;/portfolio/media/thumbnail/world/Frederiksborg_slot_huef41239a7058a269da1053963358a575_182399_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker89-lat&#34; value=&#34;63.4027&#34;&gt;
+  &lt;input id=&#34;marker89-lng&#34; value=&#34;-19.0418&#34;&gt;
+  &lt;input id=&#34;marker89-title&#34; value=&#34;Titan from Underworld&#34;&gt;
+  &lt;input id=&#34;marker89-desc&#34; value=&#34;&#34;&gt;
+  &lt;input id=&#34;marker89-date&#34; value=&#34;April 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker89-img&#34; value=&#34;/portfolio/media/thumbnail/world/Titan_Vik_hu137fcf9dd7f7a079d2d8e7bfe0133968_235575_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker90-lat&#34; value=&#34;63.5319&#34;&gt;
+  &lt;input id=&#34;marker90-lng&#34; value=&#34;-19.5106&#34;&gt;
+  &lt;input id=&#34;marker90-title&#34; value=&#34;銀河 落凡間&#34;&gt;
+  &lt;input id=&#34;marker90-desc&#34; value=&#34;📍 Skógafoss Waterfall&#34;&gt;
+  &lt;input id=&#34;marker90-date&#34; value=&#34;April 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker90-img&#34; value=&#34;/portfolio/media/thumbnail/world/Skogafoss_hu4b5af77f80ffcf069d2149d55f5cd80f_128729_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
 &lt;/div&gt;
 &lt;div id=&#34;map&#34; style=&#34;height: 600px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;num_markers&#34;&gt;目前有 82 則故事，未完待續 &lt;/div&gt;
+&lt;div id=&#34;num_markers&#34;&gt;目前有 91 則故事，未完待續 &lt;/div&gt;
 </description>
     </item>
     
