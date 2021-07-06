@@ -27,7 +27,7 @@
   &lt;input id=&#34;map-zoom&#34; value=&#34;5&#34;&gt;
   &lt;input id=&#34;map-init-lat&#34; value=&#34;59.2915&#34;&gt;
   &lt;input id=&#34;map-init-lng&#34; value=&#34;17.9249&#34;&gt;
-  &lt;input id=&#34;map-num-markers&#34; value=&#34;58&#34;&gt;
+  &lt;input id=&#34;map-num-markers&#34; value=&#34;82&#34;&gt;
 
   
   &lt;input id=&#34;marker0-lat&#34; value=&#34;60.8611&#34;&gt;
@@ -158,7 +158,7 @@
   
   
   
-  &lt;input id=&#34;marker12-img&#34; value=&#34;/portfolio/media/thumbnail/world/Orsay_hu3c43d8da3213032a5079af2ab4141acb_676060_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  &lt;input id=&#34;marker12-img&#34; value=&#34;/portfolio/media/thumbnail/world/Orsay_hu897ea45eddd5877a96776f670891d94b_988303_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
   &lt;input id=&#34;marker13-lat&#34; value=&#34;59.3202&#34;&gt;
   &lt;input id=&#34;marker13-lng&#34; value=&#34;18.0623&#34;&gt;
@@ -252,7 +252,7 @@
   
   &lt;input id=&#34;marker22-lat&#34; value=&#34;38.5583&#34;&gt;
   &lt;input id=&#34;marker22-lng&#34; value=&#34;-122.5426&#34;&gt;
-  &lt;input id=&#34;marker22-title&#34; value=&#34;Napa Valley 酒莊之旅&#34;&gt;
+  &lt;input id=&#34;marker22-title&#34; value=&#34;Napa Valley 酒莊之旅 🍷&#34;&gt;
   &lt;input id=&#34;marker22-desc&#34; value=&#34;加州和煦的陽光及乾燥的氣候，對如我這般屬陽光控 ☀️ &amp;amp;nbsp; (?) 的 engineer ，或對葡萄，都是絕佳的生長環境，也因此加州的紅酒亦頗富盛名&amp;lt;br /&amp;gt; &amp;lt;br /&amp;gt;Napa 路上，兩旁種植了整片整片的橄欖和葡萄，在陽光的照耀之下，如同翡翠般閃耀光芒。開進酒莊的大門，大道兩旁栽植了修剪整齊的筆直松樹，甚是氣派&#34;&gt;
   &lt;input id=&#34;marker22-date&#34; value=&#34;August 2018&#34;&gt;
   
@@ -403,7 +403,7 @@
   &lt;input id=&#34;marker37-lat&#34; value=&#34;63.4044&#34;&gt;
   &lt;input id=&#34;marker37-lng&#34; value=&#34;-19.0583&#34;&gt;
   &lt;input id=&#34;marker37-title&#34; value=&#34;Reynisfjara 黑沙灘&#34;&gt;
-  &lt;input id=&#34;marker37-desc&#34; value=&#34;📍 Vik &amp;lt;br /&amp;gt;冰島真的是目前心中最想帶爸媽來的地方，沒有&#34;&gt;
+  &lt;input id=&#34;marker37-desc&#34; value=&#34;📍 Vik &amp;lt;br /&amp;gt;冰島真的是目前心中最想帶爸媽來的地方，沒有之一&#34;&gt;
   &lt;input id=&#34;marker37-date&#34; value=&#34;April 2018&#34;&gt;
   
   
@@ -610,9 +610,249 @@
   
   &lt;input id=&#34;marker57-img&#34; value=&#34;/portfolio/media/thumbnail/world/Malaren_hu82b85bed165ed8fb9ce688ffad18a284_83004_0x300_resize_q75_lanczos.jpg&#34;&gt;
   
+  &lt;input id=&#34;marker58-lat&#34; value=&#34;2.5984&#34;&gt;
+  &lt;input id=&#34;marker58-lng&#34; value=&#34;101.6829&#34;&gt;
+  &lt;input id=&#34;marker58-title&#34; value=&#34;棕櫚島&#34;&gt;
+  &lt;input id=&#34;marker58-desc&#34; value=&#34;升大學前的馬新之旅&#34;&gt;
+  &lt;input id=&#34;marker58-date&#34; value=&#34;July 2013&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker58-img&#34; value=&#34;/portfolio/media/thumbnail/world/Palm_island_hu91bf2116606e590caba31f7b8e54ddc1_165260_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker59-lat&#34; value=&#34;1.4278&#34;&gt;
+  &lt;input id=&#34;marker59-lng&#34; value=&#34;103.6295&#34;&gt;
+  &lt;input id=&#34;marker59-title&#34; value=&#34;樂高樂園&#34;&gt;
+  &lt;input id=&#34;marker59-desc&#34; value=&#34;對於偽樂高控(喜歡樂高卻是第一次買較為複雜的樂高模型)如我來說，真有種夢想成真的感覺&amp;lt;br /&amp;gt;以後想有一間自己的樂高工作室 🥺&#34;&gt;
+  &lt;input id=&#34;marker59-date&#34; value=&#34;July 2013&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker59-img&#34; value=&#34;/portfolio/media/thumbnail/world/Legoland_hub837964642b7d7bd6ee754aa104b936b_556748_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker60-lat&#34; value=&#34;34.0600&#34;&gt;
+  &lt;input id=&#34;marker60-lng&#34; value=&#34;131.8123&#34;&gt;
+  &lt;input id=&#34;marker60-title&#34; value=&#34;14 隻老鼠繪本展&#34;&gt;
+  &lt;input id=&#34;marker60-desc&#34; value=&#34;14 隻老鼠是我們家小時候看的繪本，在周南市美術館中，讓大家又重溫了一次童年回憶 &amp;lt;br/&amp;gt; 我們的參訪甚至還上了官網呢 &amp;lt;a href=&amp;#39;http://s-bihaku.jugem.jp/?eid=379&amp;#39; target=&amp;#39;_blank&amp;#39;&amp;gt;[link]&amp;lt;/a&amp;gt; &amp;lt;br /&amp;gt; &amp;lt;i&amp;gt;7 月 3 日：首批來自台灣的愛閱者蒞臨參觀 ...&amp;lt;/i&amp;gt;&#34;&gt;
+  &lt;input id=&#34;marker60-date&#34; value=&#34;July 2014&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker60-img&#34; value=&#34;/portfolio/media/thumbnail/world/14mouse_hu6602850814f7d4a741c9fe62966b37ac_121411_0x300_resize_q75_lanczos.jpeg&#34;&gt;
+  
+  &lt;input id=&#34;marker61-lat&#34; value=&#34;34.3295&#34;&gt;
+  &lt;input id=&#34;marker61-lng&#34; value=&#34;134.0439&#34;&gt;
+  &lt;input id=&#34;marker61-title&#34; value=&#34;栗林公園&#34;&gt;
+  &lt;input id=&#34;marker61-desc&#34; value=&#34;日式庭園富有禪意的枯山水和有條不紊的造景&#34;&gt;
+  &lt;input id=&#34;marker61-date&#34; value=&#34;July 2014&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker61-img&#34; value=&#34;/portfolio/media/thumbnail/world/Ritsurin_Garden_hu87e622aa93cda177ab89ea90e658a7a9_494855_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker62-lat&#34; value=&#34;35.3106&#34;&gt;
+  &lt;input id=&#34;marker62-lng&#34; value=&#34;135.6393&#34;&gt;
+  &lt;input id=&#34;marker62-title&#34; value=&#34;美山町 - 合掌村&#34;&gt;
+  &lt;input id=&#34;marker62-desc&#34; value=&#34;至今家族旅遊最懷念的一個景點，沒有趕行程的壓力，就在美山町的小河旁打水漂、談天說地地度過一整個午後 &amp;lt;br /&amp;gt;清爽的食材 (甚至還有特別的生鹿肉)，古樸的村落 ...&#34;&gt;
+  &lt;input id=&#34;marker62-date&#34; value=&#34;July 2014&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker62-img&#34; value=&#34;/portfolio/media/thumbnail/world/FolkVillage_huc277ba12f30bc02c2124fd9c6e3ef126_541970_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker63-lat&#34; value=&#34;30.2312&#34;&gt;
+  &lt;input id=&#34;marker63-lng&#34; value=&#34;120.1497&#34;&gt;
+  &lt;input id=&#34;marker63-title&#34; value=&#34;雷峰夕照&#34;&gt;
+  &lt;input id=&#34;marker63-desc&#34; value=&#34;西湖十景之一 🏯&amp;amp;nbsp; ☀️&#34;&gt;
+  &lt;input id=&#34;marker63-date&#34; value=&#34;July 2015&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker63-img&#34; value=&#34;/portfolio/media/thumbnail/world/Leifeng_hud35be2a9e3ba31fcf48f87d760768747_399722_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker64-lat&#34; value=&#34;35.6604&#34;&gt;
+  &lt;input id=&#34;marker64-lng&#34; value=&#34;139.7292&#34;&gt;
+  &lt;input id=&#34;marker64-title&#34; value=&#34;日估參訪  &#34;&gt;
+  &lt;input id=&#34;marker64-desc&#34; value=&#34;&#34;&gt;
+  &lt;input id=&#34;marker64-date&#34; value=&#34;July 2016&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker64-img&#34; value=&#34;/portfolio/media/thumbnail/world/Tokyo_Google_huba7feb273abfbd94c44d775f31b60fd6_181635_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker65-lat&#34; value=&#34;51.2086&#34;&gt;
+  &lt;input id=&#34;marker65-lng&#34; value=&#34;3.2268&#34;&gt;
+  &lt;input id=&#34;marker65-title&#34; value=&#34;比利時旅行&#34;&gt;
+  &lt;input id=&#34;marker65-desc&#34; value=&#34;想起在寒冷的 11 月，與 Hans 在布魯塞爾分食的貴鬆鬆Ａ鬆餅，和廉價超商那過於甜膩的馬卡龍&amp;lt;br /&amp;gt;我們兩個都是不太會享受的人呢，就世俗來看，但不會享受，卻習於滿足，能在青旅聊歷史聊到凌晨，也是一種幸福呢&#34;&gt;
+  &lt;input id=&#34;marker65-date&#34; value=&#34;November 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker65-img&#34; value=&#34;/portfolio/media/thumbnail/world/Brugge_hud0e25eda6b0dfc99eb269f38e2699d61_1096571_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker66-lat&#34; value=&#34;59.2916&#34;&gt;
+  &lt;input id=&#34;marker66-lng&#34; value=&#34;17.9250&#34;&gt;
+  &lt;input id=&#34;marker66-title&#34; value=&#34;宿舍外的晚秋&#34;&gt;
+  &lt;input id=&#34;marker66-desc&#34; value=&#34;秋天過後，便是長達半年的寒冬，而此刻落於地面的金黃，一年中也只能體驗這麼一次&#34;&gt;
+  &lt;input id=&#34;marker66-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker66-img&#34; value=&#34;/portfolio/media/thumbnail/world/dorm_autumn_hu011e987174a263493fe58e3b2efb284c_800675_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker67-lat&#34; value=&#34;37.4765&#34;&gt;
+  &lt;input id=&#34;marker67-lng&#34; value=&#34;-122.4492&#34;&gt;
+  &lt;input id=&#34;marker67-title&#34; value=&#34;半月灣騎馬&#34;&gt;
+  &lt;input id=&#34;marker67-desc&#34; value=&#34;🔓 &amp;amp;nbsp; 騎馬 🏇 &amp;amp;nbsp;&amp;lt;br /&amp;gt; 騎著馬巡行於海灘，有種時代劇的感覺&amp;lt;br /&amp;gt;(然而下去海灘的陡坡，在馬背上是真的會怕)&#34;&gt;
+  &lt;input id=&#34;marker67-date&#34; value=&#34;September 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker67-img&#34; value=&#34;/portfolio/media/thumbnail/world/half_moon_bay_hud602acf2cb50b6ed01853f7fc0cbd129_955678_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker68-lat&#34; value=&#34;15.8768&#34;&gt;
+  &lt;input id=&#34;marker68-lng&#34; value=&#34;108.3291&#34;&gt;
+  &lt;input id=&#34;marker68-title&#34; value=&#34;會安古城&#34;&gt;
+  &lt;input id=&#34;marker68-desc&#34; value=&#34;保留樸拙古韻的小城，也是難得沒有不絕於耳喇叭聲的地方 (越南的騎士們習慣於用 📢&amp;amp;nbsp; 提醒他人自己的到來，才會有安全感)&#34;&gt;
+  &lt;input id=&#34;marker68-date&#34; value=&#34;July 2019&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker68-img&#34; value=&#34;/portfolio/media/thumbnail/world/Hui_an_hu80bf0aff1134f1b2722cbc18d4e228dd_1423203_0x300_resize_q75_lanczos.jpeg&#34;&gt;
+  
+  &lt;input id=&#34;marker69-lat&#34; value=&#34;51.7521&#34;&gt;
+  &lt;input id=&#34;marker69-lng&#34; value=&#34;-1.2517&#34;&gt;
+  &lt;input id=&#34;marker69-title&#34; value=&#34;Oxford Dining Hall&#34;&gt;
+  &lt;input id=&#34;marker69-desc&#34; value=&#34;One day in University Oxford&amp;lt;br/&amp;gt;Dining hall in Harry Potter 🧙&#34;&gt;
+  &lt;input id=&#34;marker69-date&#34; value=&#34;January 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker69-img&#34; value=&#34;/portfolio/media/thumbnail/world/Oxford_hu1ca3226f9d822951dc63a2de2a6f6cd9_259467_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker70-lat&#34; value=&#34;59.3702&#34;&gt;
+  &lt;input id=&#34;marker70-lng&#34; value=&#34;18.0632&#34;&gt;
+  &lt;input id=&#34;marker70-title&#34; value=&#34;在市區看極光&#34;&gt;
+  &lt;input id=&#34;marker70-desc&#34; value=&#34;📍 Lappis beach&#34;&gt;
+  &lt;input id=&#34;marker70-date&#34; value=&#34;November 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker70-img&#34; value=&#34;/portfolio/media/thumbnail/world/aurora_hu061911a56c08fe31e663974ee3a50a06_99009_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker71-lat&#34; value=&#34;51.4967&#34;&gt;
+  &lt;input id=&#34;marker71-lng&#34; value=&#34;-0.1763&#34;&gt;
+  &lt;input id=&#34;marker71-title&#34; value=&#34;自然史博物館&#34;&gt;
+  &lt;input id=&#34;marker71-desc&#34; value=&#34;化石控如我最愛&amp;lt;br /&amp;gt; 有著各種恐龍與新生代哺乳類的化石 🦖&#34;&gt;
+  &lt;input id=&#34;marker71-date&#34; value=&#34;January 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker71-img&#34; value=&#34;/portfolio/media/thumbnail/world/nature_museum_hu081415a9a7cb93abe011755f251d09e0_346687_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker72-lat&#34; value=&#34;51.5120&#34;&gt;
+  &lt;input id=&#34;marker72-lng&#34; value=&#34;-0.1329&#34;&gt;
+  &lt;input id=&#34;marker72-title&#34; value=&#34;Les Miserables 音樂劇&#34;&gt;
+  &lt;input id=&#34;marker72-desc&#34; value=&#34;雖然本來就很期待，但現場的感受還是超越了我的期待 &amp;lt;br/&amp;gt; 之前就先看過電影，可以把重點更多放在舞台呈現、人物的情緒、動作、唱腔，最後看到眼眶泛淚，真的很精彩&#34;&gt;
+  &lt;input id=&#34;marker72-date&#34; value=&#34;January 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker72-img&#34; value=&#34;/portfolio/media/thumbnail/world/LesMiserable_huf66e5aaba9a0af187c6d576b8204aac4_207357_0x300_resize_q75_lanczos.jpeg&#34;&gt;
+  
+  &lt;input id=&#34;marker73-lat&#34; value=&#34;52.3837&#34;&gt;
+  &lt;input id=&#34;marker73-lng&#34; value=&#34;4.6436&#34;&gt;
+  &lt;input id=&#34;marker73-title&#34; value=&#34;Haarlem 閒遊&#34;&gt;
+  &lt;input id=&#34;marker73-desc&#34; value=&#34;風光明媚，拿來形容 Haarlem 這座城市真是再適合不過了&amp;lt;br /&amp;gt;貫穿城市的運河及河畔旁的綠色草皮，散發放鬆的鄉間氣息&#34;&gt;
+  &lt;input id=&#34;marker73-date&#34; value=&#34;April 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker73-img&#34; value=&#34;/portfolio/media/thumbnail/world/Haarlem_hu4cb93257cb4798775ed8c1551e0a27ea_783032_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker74-lat&#34; value=&#34;53.9595&#34;&gt;
+  &lt;input id=&#34;marker74-lng&#34; value=&#34;-1.0955&#34;&gt;
+  &lt;input id=&#34;marker74-title&#34; value=&#34;York 鐵路博物館&#34;&gt;
+  &lt;input id=&#34;marker74-desc&#34; value=&#34;鐵道迷最愛的地方之一 (but not me)&amp;lt;br/&amp;gt; 隔天在青旅吃早餐時接到了 Wei 的電話，回瑞典後開始如火如荼地準備夏天的 Apple 實習&#34;&gt;
+  &lt;input id=&#34;marker74-date&#34; value=&#34;January 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker74-img&#34; value=&#34;/portfolio/media/thumbnail/world/York_hu3f1d38e02a5476d5baf51a8312c24d83_251146_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker75-lat&#34; value=&#34;52.2069&#34;&gt;
+  &lt;input id=&#34;marker75-lng&#34; value=&#34;0.1151&#34;&gt;
+  &lt;input id=&#34;marker75-title&#34; value=&#34;Cambridge&#34;&gt;
+  &lt;input id=&#34;marker75-desc&#34; value=&#34;不似徐志摩撐一支長蒿，向青草更青處漫溯&amp;lt;br/&amp;gt;這老兄可是又兇又快地在河道穿梭&#34;&gt;
+  &lt;input id=&#34;marker75-date&#34; value=&#34;January 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker75-img&#34; value=&#34;/portfolio/media/thumbnail/world/Cambridge_huc9d86dea3b14a585e72b29eb6a53099f_156971_0x300_resize_q75_lanczos.jpeg&#34;&gt;
+  
+  &lt;input id=&#34;marker76-lat&#34; value=&#34;16.0040&#34;&gt;
+  &lt;input id=&#34;marker76-lng&#34; value=&#34;108.2628&#34;&gt;
+  &lt;input id=&#34;marker76-title&#34; value=&#34;對弈&#34;&gt;
+  &lt;input id=&#34;marker76-desc&#34; value=&#34;寺廟後的石洞別有洞天&amp;lt;br /&amp;gt;這場棋局業已對弈百年&#34;&gt;
+  &lt;input id=&#34;marker76-date&#34; value=&#34;July 2019&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker76-img&#34; value=&#34;/portfolio/media/thumbnail/world/Go_hu104774b9a14f4144889f084f11097df4_228401_0x300_resize_q75_lanczos.jpeg&#34;&gt;
+  
+  &lt;input id=&#34;marker77-lat&#34; value=&#34;15.8760&#34;&gt;
+  &lt;input id=&#34;marker77-lng&#34; value=&#34;108.3725&#34;&gt;
+  &lt;input id=&#34;marker77-title&#34; value=&#34;迦南島 - 竹籃船&#34;&gt;
+  &lt;input id=&#34;marker77-desc&#34; value=&#34;有著未開發原始生態的小島，密佈水椰林、檳榔等熱帶樹種&#34;&gt;
+  &lt;input id=&#34;marker77-date&#34; value=&#34;September 2019&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker77-img&#34; value=&#34;/portfolio/media/thumbnail/world/CamKim_island_hud0fc51ee4a93df5413a16b8e398cf906_235236_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker78-lat&#34; value=&#34;60.3981&#34;&gt;
+  &lt;input id=&#34;marker78-lng&#34; value=&#34;5.3455&#34;&gt;
+  &lt;input id=&#34;marker78-title&#34; value=&#34;Bergen 港灣&#34;&gt;
+  &lt;input id=&#34;marker78-desc&#34; value=&#34;在一年有超過250天🌧️的城市，卻接連遇上兩天的暖陽 ☀️&#34;&gt;
+  &lt;input id=&#34;marker78-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker78-img&#34; value=&#34;/portfolio/media/thumbnail/world/Bergen_huba9e28193dcb16dd46ac6c99f19cce09_1066296_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker79-lat&#34; value=&#34;45.7039&#34;&gt;
+  &lt;input id=&#34;marker79-lng&#34; value=&#34;9.6622&#34;&gt;
+  &lt;input id=&#34;marker79-title&#34; value=&#34;Bergamo - 起士市集&#34;&gt;
+  &lt;input id=&#34;marker79-desc&#34; value=&#34;身為觀光客最底層的學生，最多的就是時間，不停地殺進殺出只為試吃，但藍乳酪先不要(真的 😱 &amp;amp;nbsp;)&#34;&gt;
+  &lt;input id=&#34;marker79-date&#34; value=&#34;October 2017&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker79-img&#34; value=&#34;/portfolio/media/thumbnail/world/Bergamo_hu39c1284cbbf79fcb901f01589e5c6da0_1536278_0x300_resize_q75_lanczos.jpg&#34;&gt;
+  
+  &lt;input id=&#34;marker80-lat&#34; value=&#34;16.0486&#34;&gt;
+  &lt;input id=&#34;marker80-lng&#34; value=&#34;108.2500&#34;&gt;
+  &lt;input id=&#34;marker80-title&#34; value=&#34;逐流&#34;&gt;
+  &lt;input id=&#34;marker80-desc&#34; value=&#34;📍 Mỹ Khê 沙灘&#34;&gt;
+  &lt;input id=&#34;marker80-date&#34; value=&#34;July 2019&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker80-img&#34; value=&#34;/portfolio/media/thumbnail/world/DaNang_hu70a7ba8d4df23293a1958a7f6d55a543_37200_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
+  &lt;input id=&#34;marker81-lat&#34; value=&#34;59.3473&#34;&gt;
+  &lt;input id=&#34;marker81-lng&#34; value=&#34;18.0718&#34;&gt;
+  &lt;input id=&#34;marker81-title&#34; value=&#34;KTH - 起點 &amp;amp; 終點&#34;&gt;
+  &lt;input id=&#34;marker81-desc&#34; value=&#34;交換學生的終與始&amp;lt;br /&amp;gt;牆上的藤蔓從綠轉紅，再到凋零，等到冒出新芽再轉為茂盛之時，又是一年的寒暑&#34;&gt;
+  &lt;input id=&#34;marker81-date&#34; value=&#34;August 2017 - May 2018&#34;&gt;
+  
+  
+  
+  &lt;input id=&#34;marker81-img&#34; value=&#34;/portfolio/media/thumbnail/world/KTH_hu34f21700020a4c0186a6e47c0a84495b_1192790_0x300_resize_q75_lanczos.JPG&#34;&gt;
+  
 &lt;/div&gt;
 &lt;div id=&#34;map&#34; style=&#34;height: 600px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;num_markers&#34;&gt;目前有 58 則故事，未完待續 &lt;/div&gt;
+&lt;div id=&#34;num_markers&#34;&gt;目前有 82 則故事，未完待續 &lt;/div&gt;
 </description>
     </item>
     

@@ -494,6 +494,10 @@
               
               &lt;li data-target=&#34;#carouselIndicators-climbing&#34; data-slide-to=&#34;4&#34; class=&#34;&#34;&gt;&lt;/li&gt;
             
+              
+              
+              &lt;li data-target=&#34;#carouselIndicators-climbing&#34; data-slide-to=&#34;5&#34; class=&#34;&#34;&gt;&lt;/li&gt;
+            
           &lt;/ol&gt;
           &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
           
@@ -580,6 +584,23 @@
                 &lt;/div&gt;
               &lt;/div&gt;
             
+            
+            
+            
+            
+            
+
+            
+              
+            
+
+              &lt;div class=&#34;carousel-item  &#34;&gt;
+                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/climbing/6_hu9a5571b1f33ec205f4488bb2223947ee_521419_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/climbing/6.jpg&#34;&gt;
+                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
+                  &lt;h5 style=&#34;color: white&#34;&gt;金面山&lt;/h5&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            
           &lt;/div&gt;
           &lt;a class=&#34;carousel-control-prev&#34; href=&#34;#carouselIndicators-climbing&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
             &lt;span class=&#34;carousel-control-prev-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
@@ -628,10 +649,6 @@
               
               &lt;li data-target=&#34;#carouselIndicators-hiking&#34; data-slide-to=&#34;2&#34; class=&#34;&#34;&gt;&lt;/li&gt;
             
-              
-              
-              &lt;li data-target=&#34;#carouselIndicators-hiking&#34; data-slide-to=&#34;3&#34; class=&#34;&#34;&gt;&lt;/li&gt;
-            
           &lt;/ol&gt;
           &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
           
@@ -668,23 +685,6 @@
                   &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/hiking/2_hu5c896c39975f32ba6bc4774bdc171153_674569_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/hiking/2.jpg&#34;&gt;
                 &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
                   &lt;h5 style=&#34;color: white&#34;&gt;立霧山&lt;/h5&gt;
-                &lt;/div&gt;
-              &lt;/div&gt;
-            
-            
-            
-            
-            
-            
-
-            
-              
-            
-
-              &lt;div class=&#34;carousel-item  &#34;&gt;
-                  &lt;img class=&#34;d-block&#34; src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/hiking/3_hu9a5571b1f33ec205f4488bb2223947ee_521419_0x450_resize_q75_lanczos.jpg&#34; alt=&#34;media/albums/hiking/3.jpg&#34;&gt;
-                &lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;
-                  &lt;h5 style=&#34;color: white&#34;&gt;金面山&lt;/h5&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
             
