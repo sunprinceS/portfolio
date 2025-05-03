@@ -42,7 +42,7 @@ experience:
     company_logo: org-MediaTek
     location: Hsinchu, Taiwan
     date_start: '2022-01-03'
-    date_end: ''
+    date_end: '2023-08-31'
     description: |2-
       * Architect and contributor of the in-house compiler auto-optimization toolkit
       * Proposed, implemented, and maintained [Prefect-based](https://www.prefect.io/) distributed computing platform for heterogeneous devices (host, various generations of smartphone platforms)
