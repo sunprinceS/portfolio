@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer
+    company: Google Inc.
+    company_url: 'https://www.google.com/'
+    company_logo: org-Google
+    location: Taipei, Taiwan
+    date_start: '2023-09-25'
+    date_end: ''
+    description: |2-
+      * Building infrastructure to revolutionize software development life cycle.
+
+      <a class="badge badge-light">System Design</a>
+      <a class="badge badge-light">Clean Code</a>
+      <a class="badge badge-light">ML</a>
+
+  - title: Software Engineer
     company: Computing & Artificial Intelligence (CAI) Group, MediaTek
     company_url: 'https://www.mediatek.com/'
     company_logo: org-MediaTek

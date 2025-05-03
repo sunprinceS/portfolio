@@ -6,11 +6,11 @@ title: Jui-Yang Hsu
 superuser: true
 
 # Role/position/tagline
-role: Research Engineer <br /> Applied Scientist
+role: Software Engineer <br /> Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: MediaTek Inc.
+- name: Google
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,10 +18,9 @@ bio: Part-time researcher, Full-time human-being
 
 # Interests to show in About widget
 interests:
+- Software Architecture
 - ML System Design
 - EdgeAI Model Optimization
-- Computer Vision
-- Speech Processing/ NLP
 
 # Education to show in About widget
 education:
@@ -74,14 +73,10 @@ email: ""
 highlight_name: true
 ---
 
-**I** am currently a research engineer at MediaTek CAI in Taiwan, with 2+
-years ML-related industry experience through my internships (Apple,
-Microsoft, and Delta) and current role. <br /> **A**s a researcher, I delight in
-acquiring knowledge of new technologies and designing algorithms/models to
-address complex, real-world issues, with a track record of success. <br /> **A**s an
-engineer, I possess practical experience in developing and managing distributed
-computing platforms at both NTU and MediaTek. I am eager to familiarize myself
-with novel tools/frameworks to enhance system robustness and
-maintainability. <br />**I**n addition, I am also a sports enthusiast and an amateur athlete. I am broadly interested in table tennis, hiking, marathon and training!
+**I** am a software engineer at Google Taiwan with 3+ years of experience in software development and 8+ years of experience of hands-on applied machine learning in speech/language processing, mobile testing, and edgeAI.
 
+**As** a software engineer, I specialize in translating ambiguous stakeholder requirements into clearly-defined and actionable tasks. I bring a strong analytical mindset and a focus on system optimization, enabling the team to troubleshoot and resolve issues across systems efficiently. I am committed to upholding best practices in software quality, scalability, performance, testability, and adherence to style guidelines.
 
+**As** a researcher, I am driven by curiosity and the desire to tackle real-world challenges through innovative algorithms/models with a tack record of success including modern AI model performance optimization on SoC, keyboard path recognition on iOS and more.
+
+**Beyond** work, I’m a passionate sports enthusiast and amateur athlete, with interests ranging from table tennis and hiking to marathon running and strength training.
